@@ -1,0 +1,885 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			enigmatic_item: {
+				DisplayName: 创造之心
+				Tooltip: ""
+			}
+
+			xp_scroll: {
+				DisplayName: 永恒智慧卷轴
+				Tooltip: ""
+			}
+
+			enigmatic_amulet: {
+				DisplayName: 神秘护身符
+				Tooltip: ""
+			}
+
+			magnet_ring: {
+				DisplayName: 磁力之戒
+				Tooltip: ""
+			}
+
+			extradimensional_eye: {
+				DisplayName: 超维之眼
+				Tooltip: ""
+			}
+
+			relic_of_testing: {
+				DisplayName: Relic Of Testing
+				Tooltip: ""
+			}
+
+			recall_potion: {
+				DisplayName: 召回药水
+				Tooltip: ""
+			}
+
+			forbidden_axe: {
+				DisplayName: 行刑者之斧
+				Tooltip: ""
+			}
+
+			escape_scroll: {
+				DisplayName: 死后召回卷轴
+				Tooltip: ""
+			}
+
+			heaven_scroll: {
+				DisplayName: 天堂之礼
+				Tooltip: ""
+			}
+
+			super_magnet_ring: {
+				DisplayName: 错位之戒
+				Tooltip: ""
+			}
+
+			golem_heart: {
+				DisplayName: 魔像之心
+				Tooltip: ""
+			}
+
+			mega_sponge: {
+				DisplayName: 无内海绵
+				Tooltip: ""
+			}
+
+			unholy_grail: {
+				DisplayName: 不洁圣杯
+				Tooltip: ""
+			}
+
+			eye_of_nebula: {
+				DisplayName: 星云之眼
+				Tooltip: ""
+			}
+
+			blazing_core: {
+				DisplayName: 烈焰之核
+				Tooltip: ""
+			}
+
+			void_pearl: {
+				DisplayName: 虚空珍珠
+				Tooltip: ""
+			}
+
+			ocean_stone: {
+				DisplayName: 海洋意志
+				Tooltip: ""
+			}
+
+			angel_blessing: {
+				DisplayName: 天使之祝
+				Tooltip: ""
+			}
+
+			monster_charm: {
+				DisplayName: 怪物猎人勋章
+				Tooltip: ""
+			}
+
+			mining_charm: {
+				DisplayName: 猎宝者护符
+				Tooltip: ""
+			}
+
+			ender_ring: {
+				DisplayName: 末影之戒
+				Tooltip: ""
+			}
+
+			mending_mixture: {
+				DisplayName: 修补混合物
+				Tooltip: ""
+			}
+
+			loot_generator: {
+				DisplayName: 战利品一体化盒
+				Tooltip: ""
+			}
+
+			thicc_scroll: {
+				DisplayName: 空卷轴
+				Tooltip: ""
+			}
+
+			iron_ring: {
+				DisplayName: 铁指环
+				Tooltip: ""
+			}
+
+			etherium_ore: {
+				DisplayName: 以太矿石
+				Tooltip: ""
+			}
+
+			etherium_ingot: {
+				DisplayName: 以太锭
+				Tooltip: ""
+			}
+
+			etherium_nugget: {
+				DisplayName: 以太粒
+				Tooltip: ""
+			}
+
+			etherium_scraps: {
+				DisplayName: 以太合金碎片
+				Tooltip: ""
+			}
+
+			ultimate_potion: {
+				DisplayName: Ultimate Potion
+				Tooltip: ""
+			}
+
+			ultimate_potion_splash: {
+				DisplayName: Ultimate Potion Splash
+				Tooltip: ""
+			}
+
+			ultimate_potion_lingering: {
+				DisplayName: Ultimate Potion Lingering
+				Tooltip: ""
+			}
+
+			common_potion: {
+				DisplayName: Common Potion
+				Tooltip: ""
+			}
+
+			common_potion_splash: {
+				DisplayName: Common Potion Splash
+				Tooltip: ""
+			}
+
+			common_potion_lingering: {
+				DisplayName: Common Potion Lingering
+				Tooltip: ""
+			}
+
+			etherium_helmet: {
+				DisplayName: 以太头盔
+				Tooltip: ""
+			}
+
+			etherium_chestplate: {
+				DisplayName: 以太胸甲
+				Tooltip: ""
+			}
+
+			etherium_leggings: {
+				DisplayName: 以太护腿
+				Tooltip: ""
+			}
+
+			etherium_boots: {
+				DisplayName: 以太靴子
+				Tooltip: ""
+			}
+
+			etherium_pickaxe: {
+				DisplayName: 以太镐
+				Tooltip: ""
+			}
+
+			etherium_axe: {
+				DisplayName: 以太斧
+				Tooltip: ""
+			}
+
+			etherium_shovel: {
+				DisplayName: 以太锹
+				Tooltip: ""
+			}
+
+			etherium_sword: {
+				DisplayName: 以太阔剑
+				Tooltip: ""
+			}
+
+			etherium_scythe: {
+				DisplayName: 以太镰刀
+				Tooltip: ""
+			}
+
+			astral_dust: {
+				DisplayName: 星尘
+				Tooltip: ""
+			}
+
+			lore_inscriber: {
+				DisplayName: 设计师的墨水
+				Tooltip: ""
+			}
+
+			lore_fragment: {
+				DisplayName: 物品描述片段
+				Tooltip: ""
+			}
+
+			ender_rod: {
+				DisplayName: 末影棍
+				Tooltip: ""
+			}
+
+			astral_breaker: {
+				DisplayName: 星光破坏锤
+				Tooltip: ""
+			}
+
+			void_stone: {
+				DisplayName: 湮灭心石
+				Tooltip: ""
+			}
+
+			enchantment_transposer: {
+				DisplayName: 求知之书
+				Tooltip: ""
+			}
+
+			curse_transposer: {
+				DisplayName: 噬咒之书
+				Tooltip: ""
+			}
+
+			fabulous_scroll: {
+				DisplayName: 造物主的恩赐
+				Tooltip: ""
+			}
+
+			storage_crystal: {
+				DisplayName: 超维容器
+				Tooltip: ""
+			}
+
+			soul_crystal: {
+				DisplayName: 灵魂水晶
+				Tooltip: ""
+			}
+
+			the_acknowledgment: {
+				DisplayName: 启示之证
+				Tooltip: ""
+			}
+
+			tattered_tome: {
+				DisplayName: 破烂书籍
+				Tooltip: ""
+			}
+
+			withered_tome: {
+				DisplayName: 凋零书籍
+				Tooltip: ""
+			}
+
+			corrupted_tome: {
+				DisplayName: 腐烂书籍
+				Tooltip: ""
+			}
+
+			cursed_ring: {
+				DisplayName: 七咒之戒
+				Tooltip: ""
+			}
+
+			twisted_mirror: {
+				DisplayName: 扭曲魔镜
+				Tooltip: ""
+			}
+
+			cursed_scroll: {
+				DisplayName: 千咒卷轴
+				Tooltip: ""
+			}
+
+			berserk_charm: {
+				DisplayName: 血战沙场之证
+				Tooltip: ""
+			}
+
+			earth_heart: {
+				DisplayName: 大地之心
+				Tooltip: ""
+			}
+
+			twisted_heart: {
+				DisplayName: 扭曲之心
+				Tooltip: ""
+			}
+
+			guardian_heart: {
+				DisplayName: 守卫者之心
+				Tooltip: ""
+			}
+
+			the_twist: {
+				DisplayName: 倒转之启
+				Tooltip: ""
+			}
+
+			evil_essence: {
+				DisplayName: 邪恶精髓
+				Tooltip: ""
+			}
+
+			evil_ingot: {
+				DisplayName: 极恶锭
+				Tooltip: ""
+			}
+
+			animal_guidebook: {
+				DisplayName: 兽友指南
+				Tooltip: ""
+			}
+
+			hunter_guidebook: {
+				DisplayName: 野猎指南
+				Tooltip: ""
+			}
+
+			forbidden_fruit: {
+				DisplayName: 禁忌之果
+				Tooltip: ""
+			}
+
+			redemption_potion: {
+				DisplayName: 救赎药水
+				Tooltip: ""
+			}
+
+			golden_ring: {
+				DisplayName: 精美戒指
+				Tooltip: ""
+			}
+
+			cursed_stone: {
+				DisplayName: 邪恶之石
+				Tooltip: ""
+			}
+
+			enchanter_pearl: {
+				DisplayName: 附魔师的珍珠
+				Tooltip: ""
+			}
+
+			avarice_scroll: {
+				DisplayName: 无尽贪婪契约
+				Tooltip: ""
+			}
+
+			infinimeal: {
+				DisplayName: 狂野生长精华
+				Tooltip: ""
+			}
+
+			darkest_scroll: {
+				DisplayName: 至暗卷轴
+				Tooltip: ""
+			}
+
+			unwitnessed_amulet: {
+				DisplayName: 无主护身符
+				Tooltip: ""
+			}
+
+			twisted_potion: {
+				DisplayName: 扭曲恩惠药水
+				Tooltip: ""
+			}
+
+			infernal_shield: {
+				DisplayName: 烈焰之傲壁垒
+				Tooltip: ""
+			}
+
+			cosmic_heart: {
+				DisplayName: 寰宇之心
+				Tooltip: ""
+			}
+
+			abyssal_heart: {
+				DisplayName: 深渊之心
+				Tooltip: ""
+			}
+
+			the_infinitum: {
+				DisplayName: 无止之言
+				Tooltip: ""
+			}
+
+			astral_fruit: {
+				DisplayName: 天体果实
+				Tooltip: ""
+			}
+
+			ender_slayer: {
+				DisplayName: 末影之屠
+				Tooltip: ""
+			}
+
+			the_cube: {
+				DisplayName: 非欧立方
+				Tooltip: ""
+			}
+
+			desolation_ring: {
+				DisplayName: 荒芜之负
+				Tooltip: ""
+			}
+
+			astral_potato: {
+				DisplayName: 传送薯
+				Tooltip: ""
+			}
+
+			soul_compass: {
+				DisplayName: 被诅咒者的寻路指针
+				Tooltip: ""
+			}
+
+			ascension_amulet: {
+				DisplayName: 飞升护符
+				Tooltip: ""
+			}
+
+			eldritch_amulet: {
+				DisplayName: 轻蔑之约
+				Tooltip: ""
+			}
+
+			enigmatic_elytra: {
+				DisplayName: 壮丽鞘翅
+				Tooltip: ""
+			}
+
+			enigmatic_eye: {
+				DisplayName: 休眠之眼
+				Tooltip: ""
+			}
+
+			ichor_bottle: {
+				DisplayName: 灵液瓶
+				Tooltip: ""
+			}
+
+			quote_player: {
+				DisplayName: 呓语播放器
+				Tooltip: ""
+			}
+
+			insignia: {
+				DisplayName: 迷人徽章
+				Tooltip: ""
+			}
+
+			cosmic_scroll: {
+				DisplayName: 建筑师的青睐
+				Tooltip: ""
+			}
+
+			deception_amulet: {
+				DisplayName: 诡计护符 [未完成]
+				Tooltip: ""
+			}
+
+			the_judgement: {
+				DisplayName: 审判
+				Tooltip: ""
+			}
+
+			soul_dust: {
+				DisplayName: 灵魂尘
+				Tooltip: ""
+			}
+
+			eldritch_pan: {
+				DisplayName: 饕餮之锅
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_aqua: {
+				DisplayName: 神秘护身符·青
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_violet: {
+				DisplayName: 神秘护身符·紫
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_magenta: {
+				DisplayName: 神秘护身符·品红
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_green: {
+				DisplayName: 神秘护身符·绿
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_black: {
+				DisplayName: 神秘护身符·黑
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_blue: {
+				DisplayName: 神秘护身符·蓝
+				Tooltip: ""
+			}
+
+			ultimate_night_vision: {
+				DisplayName: 终极夜视药水
+				Tooltip: ""
+			}
+
+			ultimate_night_vision_splash: {
+				DisplayName: 喷溅型终极夜视药水
+				Tooltip: ""
+			}
+
+			ultimate_night_vision_lingering: {
+				DisplayName: 滞留型终极夜视药水
+				Tooltip: ""
+			}
+
+			ultimate_invisibility: {
+				DisplayName: 终极隐身药水
+				Tooltip: ""
+			}
+
+			ultimate_invisibility_splash: {
+				DisplayName: 喷溅型终极隐身药水
+				Tooltip: ""
+			}
+
+			ultimate_invisibility_lingering: {
+				DisplayName: 滞留型终极隐身药水
+				Tooltip: ""
+			}
+
+			ultimate_leaping: {
+				DisplayName: 终极跳跃提升药水
+				Tooltip: ""
+			}
+
+			ultimate_leaping_splash: {
+				DisplayName: 喷溅型终极跳跃提升药水
+				Tooltip: ""
+			}
+
+			ultimate_leaping_lingering: {
+				DisplayName: 滞留型终极跳跃提升药水
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance: {
+				DisplayName: 终极防火药水
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance_splash: {
+				DisplayName: 喷溅型终极防火药水
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance_lingering: {
+				DisplayName: 滞留型终极防火药水
+				Tooltip: ""
+			}
+
+			ultimate_swiftness: {
+				DisplayName: 终极迅捷药水
+				Tooltip: ""
+			}
+
+			ultimate_swiftness_splash: {
+				DisplayName: 喷溅型终极迅捷药水
+				Tooltip: ""
+			}
+
+			ultimate_swiftness_lingering: {
+				DisplayName: 滞留型终极迅捷药水
+				Tooltip: ""
+			}
+
+			ultimate_slowness: {
+				DisplayName: 终极缓慢药水
+				Tooltip: ""
+			}
+
+			ultimate_slowness_splash: {
+				DisplayName: 喷溅型终极缓慢药水
+				Tooltip: ""
+			}
+
+			ultimate_slowness_lingering: {
+				DisplayName: 滞留型终极缓慢药水
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master: {
+				DisplayName: 终极神龟药水
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master_splash: {
+				DisplayName: 喷溅型终极神龟药水
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master_lingering: {
+				DisplayName: 滞留型终极神龟药水
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing: {
+				DisplayName: 终极水肺药水
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing_splash: {
+				DisplayName: 喷溅型终极水肺药水
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing_lingering: {
+				DisplayName: 滞留型终极水肺药水
+				Tooltip: ""
+			}
+
+			ultimate_healing: {
+				DisplayName: 终极治疗药水
+				Tooltip: ""
+			}
+
+			ultimate_healing_splash: {
+				DisplayName: 喷溅型终极治疗药水
+				Tooltip: ""
+			}
+
+			ultimate_healing_lingering: {
+				DisplayName: 滞留型终极治疗药水
+				Tooltip: ""
+			}
+
+			ultimate_harming: {
+				DisplayName: 终极伤害药水
+				Tooltip: ""
+			}
+
+			ultimate_harming_splash: {
+				DisplayName: 喷溅型终极伤害药水
+				Tooltip: ""
+			}
+
+			ultimate_harming_lingering: {
+				DisplayName: 滞留型终极伤害药水
+				Tooltip: ""
+			}
+
+			ultimate_poison: {
+				DisplayName: 终极剧毒药水
+				Tooltip: ""
+			}
+
+			ultimate_poison_splash: {
+				DisplayName: 喷溅型终极剧毒药水
+				Tooltip: ""
+			}
+
+			ultimate_poison_lingering: {
+				DisplayName: 滞留型终极剧毒药水
+				Tooltip: ""
+			}
+
+			ultimate_regeneration: {
+				DisplayName: 终极再生药水
+				Tooltip: ""
+			}
+
+			ultimate_regeneration_splash: {
+				DisplayName: 喷溅型终极再生药水
+				Tooltip: ""
+			}
+
+			ultimate_regeneration_lingering: {
+				DisplayName: 滞留型终极再生药水
+				Tooltip: ""
+			}
+
+			ultimate_strength: {
+				DisplayName: 终极力量药水
+				Tooltip: ""
+			}
+
+			ultimate_strength_splash: {
+				DisplayName: 喷溅型终极力量药水
+				Tooltip: ""
+			}
+
+			ultimate_strength_lingering: {
+				DisplayName: 滞留型终极力量药水
+				Tooltip: ""
+			}
+
+			ultimate_weakness: {
+				DisplayName: 终极虚弱药水
+				Tooltip: ""
+			}
+
+			ultimate_weakness_splash: {
+				DisplayName: 喷溅型终极虚弱药水
+				Tooltip: ""
+			}
+
+			ultimate_weakness_lingering: {
+				DisplayName: 滞留型终极虚弱药水
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling: {
+				DisplayName: 终极缓降药水
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling_splash: {
+				DisplayName: 喷溅型终极缓降药水
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling_lingering: {
+				DisplayName: 滞留型终极缓降药水
+				Tooltip: ""
+			}
+
+			ultimate_haste: {
+				DisplayName: 终极急迫药水
+				Tooltip: ""
+			}
+
+			ultimate_haste_splash: {
+				DisplayName: 喷溅型终极急迫药水
+				Tooltip: ""
+			}
+
+			ultimate_haste_lingering: {
+				DisplayName: 滞留型终极急迫药水
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart: {
+				DisplayName: 熔火之心药水
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart_splash: {
+				DisplayName: 喷溅型熔火之心药水
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart_lingering: {
+				DisplayName: 滞留型熔火之心药水
+				Tooltip: ""
+			}
+
+			common_haste: {
+				DisplayName: 急迫药水
+				Tooltip: ""
+			}
+
+			common_haste_splash: {
+				DisplayName: 喷溅型急迫药水
+				Tooltip: ""
+			}
+
+			common_haste_lingering: {
+				DisplayName: 滞留型急迫药水
+				Tooltip: ""
+			}
+
+			common_long_haste: {
+				DisplayName: 急迫药水（延长）
+				Tooltip: ""
+			}
+
+			common_long_haste_splash: {
+				DisplayName: 喷溅型急迫药水（延长）
+				Tooltip: ""
+			}
+
+			common_long_haste_lingering: {
+				DisplayName: 滞留型急迫药水（延长）
+				Tooltip: ""
+			}
+
+			common_strong_haste: {
+				DisplayName: 急迫药水（强化）
+				Tooltip: ""
+			}
+
+			common_strong_haste_splash: {
+				DisplayName: 喷溅型急迫药水（强化）
+				Tooltip: ""
+			}
+
+			common_strong_haste_lingering: {
+				DisplayName: 滞留型急迫药水（强化）
+				Tooltip: ""
+			}
+
+			common_molten_heart: {
+				DisplayName: 熔火之心药水
+				Tooltip: ""
+			}
+
+			common_molten_heart_splash: {
+				DisplayName: 喷溅型熔火之心药水
+				Tooltip: ""
+			}
+
+			common_molten_heart_lingering: {
+				DisplayName: 滞留型熔火之心药水
+				Tooltip: ""
+			}
+
+			common_long_molten_heart: {
+				DisplayName: 熔火之心药水（延长）
+				Tooltip: ""
+			}
+
+			common_long_molten_heart_splash: {
+				DisplayName: 喷溅型熔火之心药水（延长）
+				Tooltip: ""
+			}
+
+			common_long_molten_heart_lingering: {
+				DisplayName: 滞留型熔火之心药水（延长）
+				Tooltip: ""
+			}
+		}
+	}
+}

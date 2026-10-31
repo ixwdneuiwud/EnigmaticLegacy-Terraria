@@ -1,0 +1,885 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			enigmatic_item: {
+				DisplayName: Heart of Creation
+				Tooltip: ""
+			}
+
+			xp_scroll: {
+				DisplayName: Scroll of Ageless Wisdom
+				Tooltip: ""
+			}
+
+			enigmatic_amulet: {
+				DisplayName: Enigmatic Amulet
+				Tooltip: ""
+			}
+
+			magnet_ring: {
+				DisplayName: Magnetic Ring
+				Tooltip: ""
+			}
+
+			extradimensional_eye: {
+				DisplayName: Extradimensional Eye
+				Tooltip: ""
+			}
+
+			relic_of_testing: {
+				DisplayName: Relic Of Testing
+				Tooltip: ""
+			}
+
+			recall_potion: {
+				DisplayName: Potion of Recall
+				Tooltip: ""
+			}
+
+			forbidden_axe: {
+				DisplayName: Axe of Executioner
+				Tooltip: ""
+			}
+
+			escape_scroll: {
+				DisplayName: Scroll of Postmortal Recall
+				Tooltip: ""
+			}
+
+			heaven_scroll: {
+				DisplayName: Gift of the Heaven
+				Tooltip: ""
+			}
+
+			super_magnet_ring: {
+				DisplayName: Dislocation Ring
+				Tooltip: ""
+			}
+
+			golem_heart: {
+				DisplayName: Heart of the Golem
+				Tooltip: ""
+			}
+
+			mega_sponge: {
+				DisplayName: Extrapolated Megasponge
+				Tooltip: ""
+			}
+
+			unholy_grail: {
+				DisplayName: Unholy Grail
+				Tooltip: ""
+			}
+
+			eye_of_nebula: {
+				DisplayName: Eye of the Nebula
+				Tooltip: ""
+			}
+
+			blazing_core: {
+				DisplayName: Blazing Core
+				Tooltip: ""
+			}
+
+			void_pearl: {
+				DisplayName: Pearl of the Void
+				Tooltip: ""
+			}
+
+			ocean_stone: {
+				DisplayName: Will of the Ocean
+				Tooltip: ""
+			}
+
+			angel_blessing: {
+				DisplayName: Angel's Blessing
+				Tooltip: ""
+			}
+
+			monster_charm: {
+				DisplayName: Emblem of Monster Slayer
+				Tooltip: ""
+			}
+
+			mining_charm: {
+				DisplayName: Charm of Treasure Hunter
+				Tooltip: ""
+			}
+
+			ender_ring: {
+				DisplayName: Ring of Ender
+				Tooltip: ""
+			}
+
+			mending_mixture: {
+				DisplayName: Mending Mixture
+				Tooltip: ""
+			}
+
+			loot_generator: {
+				DisplayName: The One Box
+				Tooltip: ""
+			}
+
+			thicc_scroll: {
+				DisplayName: Blank Scroll
+				Tooltip: ""
+			}
+
+			iron_ring: {
+				DisplayName: Iron Ring
+				Tooltip: ""
+			}
+
+			etherium_ore: {
+				DisplayName: Etherium Ore
+				Tooltip: ""
+			}
+
+			etherium_ingot: {
+				DisplayName: Etherium Ingot
+				Tooltip: ""
+			}
+
+			etherium_nugget: {
+				DisplayName: Etherium Nugget
+				Tooltip: ""
+			}
+
+			etherium_scraps: {
+				DisplayName: Etherium Scrap
+				Tooltip: ""
+			}
+
+			ultimate_potion: {
+				DisplayName: Ultimate Potion
+				Tooltip: ""
+			}
+
+			ultimate_potion_splash: {
+				DisplayName: Ultimate Potion Splash
+				Tooltip: ""
+			}
+
+			ultimate_potion_lingering: {
+				DisplayName: Ultimate Potion Lingering
+				Tooltip: ""
+			}
+
+			common_potion: {
+				DisplayName: Common Potion
+				Tooltip: ""
+			}
+
+			common_potion_splash: {
+				DisplayName: Common Potion Splash
+				Tooltip: ""
+			}
+
+			common_potion_lingering: {
+				DisplayName: Common Potion Lingering
+				Tooltip: ""
+			}
+
+			etherium_helmet: {
+				DisplayName: Etherium Helmet
+				Tooltip: ""
+			}
+
+			etherium_chestplate: {
+				DisplayName: Etherium Cuirass
+				Tooltip: ""
+			}
+
+			etherium_leggings: {
+				DisplayName: Etherium Greaves
+				Tooltip: ""
+			}
+
+			etherium_boots: {
+				DisplayName: Etherium Boots
+				Tooltip: ""
+			}
+
+			etherium_pickaxe: {
+				DisplayName: Etherium Pickaxe
+				Tooltip: ""
+			}
+
+			etherium_axe: {
+				DisplayName: Etherium Waraxe
+				Tooltip: ""
+			}
+
+			etherium_shovel: {
+				DisplayName: Etherium Shovel
+				Tooltip: ""
+			}
+
+			etherium_sword: {
+				DisplayName: Etherium Broadsword
+				Tooltip: ""
+			}
+
+			etherium_scythe: {
+				DisplayName: Etherium Scythe
+				Tooltip: ""
+			}
+
+			astral_dust: {
+				DisplayName: Astral Dust
+				Tooltip: ""
+			}
+
+			lore_inscriber: {
+				DisplayName: The Architect's Inkwell
+				Tooltip: ""
+			}
+
+			lore_fragment: {
+				DisplayName: Lore Fragment
+				Tooltip: ""
+			}
+
+			ender_rod: {
+				DisplayName: Ender Rod
+				Tooltip: ""
+			}
+
+			astral_breaker: {
+				DisplayName: Astral Breaker
+				Tooltip: ""
+			}
+
+			void_stone: {
+				DisplayName: Keystone of The Oblivion
+				Tooltip: ""
+			}
+
+			enchantment_transposer: {
+				DisplayName: Tome of Hungering Knowledge
+				Tooltip: ""
+			}
+
+			curse_transposer: {
+				DisplayName: Tome of Devoured Malignancy
+				Tooltip: ""
+			}
+
+			fabulous_scroll: {
+				DisplayName: Grace of the Creator
+				Tooltip: ""
+			}
+
+			storage_crystal: {
+				DisplayName: Extradimensional Vessel
+				Tooltip: ""
+			}
+
+			soul_crystal: {
+				DisplayName: Soul Crystal
+				Tooltip: ""
+			}
+
+			the_acknowledgment: {
+				DisplayName: The Acknowledgment
+				Tooltip: ""
+			}
+
+			tattered_tome: {
+				DisplayName: Tattered Tome
+				Tooltip: ""
+			}
+
+			withered_tome: {
+				DisplayName: Withered Tome
+				Tooltip: ""
+			}
+
+			corrupted_tome: {
+				DisplayName: Corrupted Tome
+				Tooltip: ""
+			}
+
+			cursed_ring: {
+				DisplayName: Ring of the Seven Curses
+				Tooltip: ""
+			}
+
+			twisted_mirror: {
+				DisplayName: Twisted Mirror
+				Tooltip: ""
+			}
+
+			cursed_scroll: {
+				DisplayName: Scroll of a Thousand Curses
+				Tooltip: ""
+			}
+
+			berserk_charm: {
+				DisplayName: Emblem of Bloodstained Valor
+				Tooltip: ""
+			}
+
+			earth_heart: {
+				DisplayName: Heart of the Earth
+				Tooltip: ""
+			}
+
+			twisted_heart: {
+				DisplayName: Twisted Heart
+				Tooltip: ""
+			}
+
+			guardian_heart: {
+				DisplayName: Heart of the Guardian
+				Tooltip: ""
+			}
+
+			the_twist: {
+				DisplayName: The Twist
+				Tooltip: ""
+			}
+
+			evil_essence: {
+				DisplayName: Nefarious Essence
+				Tooltip: ""
+			}
+
+			evil_ingot: {
+				DisplayName: Nefarious Ingot
+				Tooltip: ""
+			}
+
+			animal_guidebook: {
+				DisplayName: Guide to Animal Companionship
+				Tooltip: ""
+			}
+
+			hunter_guidebook: {
+				DisplayName: Guide to Feral Hunt
+				Tooltip: ""
+			}
+
+			forbidden_fruit: {
+				DisplayName: The Forbidden Fruit
+				Tooltip: ""
+			}
+
+			redemption_potion: {
+				DisplayName: Potion of Redemption
+				Tooltip: ""
+			}
+
+			golden_ring: {
+				DisplayName: Exquisite Ring
+				Tooltip: ""
+			}
+
+			cursed_stone: {
+				DisplayName: Unholy Stone
+				Tooltip: ""
+			}
+
+			enchanter_pearl: {
+				DisplayName: Enchanter's Pearl
+				Tooltip: ""
+			}
+
+			avarice_scroll: {
+				DisplayName: Pact of Infinite Avarice
+				Tooltip: ""
+			}
+
+			infinimeal: {
+				DisplayName: Essence of Raging Life
+				Tooltip: ""
+			}
+
+			darkest_scroll: {
+				DisplayName: Darkest Scroll
+				Tooltip: ""
+			}
+
+			unwitnessed_amulet: {
+				DisplayName: Unwitnessed Amulet
+				Tooltip: ""
+			}
+
+			twisted_potion: {
+				DisplayName: Potion of Twisted Mercy
+				Tooltip: ""
+			}
+
+			infernal_shield: {
+				DisplayName: Bulwark of Blazing Pride
+				Tooltip: ""
+			}
+
+			cosmic_heart: {
+				DisplayName: Heart of the Cosmos
+				Tooltip: ""
+			}
+
+			abyssal_heart: {
+				DisplayName: Heart of the Abyss
+				Tooltip: ""
+			}
+
+			the_infinitum: {
+				DisplayName: The Infinitum
+				Tooltip: ""
+			}
+
+			astral_fruit: {
+				DisplayName: Celestial Fruit
+				Tooltip: ""
+			}
+
+			ender_slayer: {
+				DisplayName: The Ender Slayer
+				Tooltip: ""
+			}
+
+			the_cube: {
+				DisplayName: Non-Euclidean Cube
+				Tooltip: ""
+			}
+
+			desolation_ring: {
+				DisplayName: The Burden of Desolation
+				Tooltip: ""
+			}
+
+			astral_potato: {
+				DisplayName: Teleportato
+				Tooltip: ""
+			}
+
+			soul_compass: {
+				DisplayName: Wayfinder of the Damned
+				Tooltip: ""
+			}
+
+			ascension_amulet: {
+				DisplayName: Amulet of Ascension
+				Tooltip: ""
+			}
+
+			eldritch_amulet: {
+				DisplayName: The Testament of Contempt
+				Tooltip: ""
+			}
+
+			enigmatic_elytra: {
+				DisplayName: Majestic Elytra
+				Tooltip: ""
+			}
+
+			enigmatic_eye: {
+				DisplayName: 休眠之眼
+				Tooltip: ""
+			}
+
+			ichor_bottle: {
+				DisplayName: Bottle of Ichor
+				Tooltip: ""
+			}
+
+			quote_player: {
+				DisplayName: Quote Player
+				Tooltip: ""
+			}
+
+			insignia: {
+				DisplayName: Charming Insignia
+				Tooltip: ""
+			}
+
+			cosmic_scroll: {
+				DisplayName: The Architect's Favor
+				Tooltip: ""
+			}
+
+			deception_amulet: {
+				DisplayName: Amulet of Deception [WIP]
+				Tooltip: ""
+			}
+
+			the_judgement: {
+				DisplayName: The Judgement
+				Tooltip: ""
+			}
+
+			soul_dust: {
+				DisplayName: Soul Dust
+				Tooltip: ""
+			}
+
+			eldritch_pan: {
+				DisplayName: The Voracious Pan
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_aqua: {
+				DisplayName: Enigmatic Amulet (aqua)
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_violet: {
+				DisplayName: Enigmatic Amulet (violet)
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_magenta: {
+				DisplayName: Enigmatic Amulet (magenta)
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_green: {
+				DisplayName: Enigmatic Amulet (green)
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_black: {
+				DisplayName: Enigmatic Amulet (black)
+				Tooltip: ""
+			}
+
+			enigmatic_amulet_blue: {
+				DisplayName: Enigmatic Amulet (blue)
+				Tooltip: ""
+			}
+
+			ultimate_night_vision: {
+				DisplayName: Ultimate Night Vision
+				Tooltip: ""
+			}
+
+			ultimate_night_vision_splash: {
+				DisplayName: Ultimate Night Vision splash
+				Tooltip: ""
+			}
+
+			ultimate_night_vision_lingering: {
+				DisplayName: Ultimate Night Vision lingering
+				Tooltip: ""
+			}
+
+			ultimate_invisibility: {
+				DisplayName: Ultimate Invisibility
+				Tooltip: ""
+			}
+
+			ultimate_invisibility_splash: {
+				DisplayName: Ultimate Invisibility splash
+				Tooltip: ""
+			}
+
+			ultimate_invisibility_lingering: {
+				DisplayName: Ultimate Invisibility lingering
+				Tooltip: ""
+			}
+
+			ultimate_leaping: {
+				DisplayName: Ultimate Leaping
+				Tooltip: ""
+			}
+
+			ultimate_leaping_splash: {
+				DisplayName: Ultimate Leaping splash
+				Tooltip: ""
+			}
+
+			ultimate_leaping_lingering: {
+				DisplayName: Ultimate Leaping lingering
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance: {
+				DisplayName: Ultimate Fire Resistance
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance_splash: {
+				DisplayName: Ultimate Fire Resistance splash
+				Tooltip: ""
+			}
+
+			ultimate_fire_resistance_lingering: {
+				DisplayName: Ultimate Fire Resistance lingering
+				Tooltip: ""
+			}
+
+			ultimate_swiftness: {
+				DisplayName: Ultimate Swiftness
+				Tooltip: ""
+			}
+
+			ultimate_swiftness_splash: {
+				DisplayName: Ultimate Swiftness splash
+				Tooltip: ""
+			}
+
+			ultimate_swiftness_lingering: {
+				DisplayName: Ultimate Swiftness lingering
+				Tooltip: ""
+			}
+
+			ultimate_slowness: {
+				DisplayName: Ultimate Slowness
+				Tooltip: ""
+			}
+
+			ultimate_slowness_splash: {
+				DisplayName: Ultimate Slowness splash
+				Tooltip: ""
+			}
+
+			ultimate_slowness_lingering: {
+				DisplayName: Ultimate Slowness lingering
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master: {
+				DisplayName: Ultimate Turtle Master
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master_splash: {
+				DisplayName: Ultimate Turtle Master splash
+				Tooltip: ""
+			}
+
+			ultimate_turtle_master_lingering: {
+				DisplayName: Ultimate Turtle Master lingering
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing: {
+				DisplayName: Ultimate Water Breathing
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing_splash: {
+				DisplayName: Ultimate Water Breathing splash
+				Tooltip: ""
+			}
+
+			ultimate_water_breathing_lingering: {
+				DisplayName: Ultimate Water Breathing lingering
+				Tooltip: ""
+			}
+
+			ultimate_healing: {
+				DisplayName: Ultimate Healing
+				Tooltip: ""
+			}
+
+			ultimate_healing_splash: {
+				DisplayName: Ultimate Healing splash
+				Tooltip: ""
+			}
+
+			ultimate_healing_lingering: {
+				DisplayName: Ultimate Healing lingering
+				Tooltip: ""
+			}
+
+			ultimate_harming: {
+				DisplayName: Ultimate Harming
+				Tooltip: ""
+			}
+
+			ultimate_harming_splash: {
+				DisplayName: Ultimate Harming splash
+				Tooltip: ""
+			}
+
+			ultimate_harming_lingering: {
+				DisplayName: Ultimate Harming lingering
+				Tooltip: ""
+			}
+
+			ultimate_poison: {
+				DisplayName: Ultimate Poison
+				Tooltip: ""
+			}
+
+			ultimate_poison_splash: {
+				DisplayName: Ultimate Poison splash
+				Tooltip: ""
+			}
+
+			ultimate_poison_lingering: {
+				DisplayName: Ultimate Poison lingering
+				Tooltip: ""
+			}
+
+			ultimate_regeneration: {
+				DisplayName: Ultimate Regeneration
+				Tooltip: ""
+			}
+
+			ultimate_regeneration_splash: {
+				DisplayName: Ultimate Regeneration splash
+				Tooltip: ""
+			}
+
+			ultimate_regeneration_lingering: {
+				DisplayName: Ultimate Regeneration lingering
+				Tooltip: ""
+			}
+
+			ultimate_strength: {
+				DisplayName: Ultimate Strength
+				Tooltip: ""
+			}
+
+			ultimate_strength_splash: {
+				DisplayName: Ultimate Strength splash
+				Tooltip: ""
+			}
+
+			ultimate_strength_lingering: {
+				DisplayName: Ultimate Strength lingering
+				Tooltip: ""
+			}
+
+			ultimate_weakness: {
+				DisplayName: Ultimate Weakness
+				Tooltip: ""
+			}
+
+			ultimate_weakness_splash: {
+				DisplayName: Ultimate Weakness splash
+				Tooltip: ""
+			}
+
+			ultimate_weakness_lingering: {
+				DisplayName: Ultimate Weakness lingering
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling: {
+				DisplayName: Ultimate Slow Falling
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling_splash: {
+				DisplayName: Ultimate Slow Falling splash
+				Tooltip: ""
+			}
+
+			ultimate_slow_falling_lingering: {
+				DisplayName: Ultimate Slow Falling lingering
+				Tooltip: ""
+			}
+
+			ultimate_haste: {
+				DisplayName: Ultimate Haste
+				Tooltip: ""
+			}
+
+			ultimate_haste_splash: {
+				DisplayName: Ultimate Haste splash
+				Tooltip: ""
+			}
+
+			ultimate_haste_lingering: {
+				DisplayName: Ultimate Haste lingering
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart: {
+				DisplayName: Ultimate Molten Heart
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart_splash: {
+				DisplayName: Ultimate Molten Heart splash
+				Tooltip: ""
+			}
+
+			ultimate_molten_heart_lingering: {
+				DisplayName: Ultimate Molten Heart lingering
+				Tooltip: ""
+			}
+
+			common_haste: {
+				DisplayName: Haste Potion
+				Tooltip: ""
+			}
+
+			common_haste_splash: {
+				DisplayName: Haste Potion splash
+				Tooltip: ""
+			}
+
+			common_haste_lingering: {
+				DisplayName: Haste Potion lingering
+				Tooltip: ""
+			}
+
+			common_long_haste: {
+				DisplayName: Long_Haste Potion
+				Tooltip: ""
+			}
+
+			common_long_haste_splash: {
+				DisplayName: Long_Haste Potion splash
+				Tooltip: ""
+			}
+
+			common_long_haste_lingering: {
+				DisplayName: Long_Haste Potion lingering
+				Tooltip: ""
+			}
+
+			common_strong_haste: {
+				DisplayName: Strong_Haste Potion
+				Tooltip: ""
+			}
+
+			common_strong_haste_splash: {
+				DisplayName: Strong_Haste Potion splash
+				Tooltip: ""
+			}
+
+			common_strong_haste_lingering: {
+				DisplayName: Strong_Haste Potion lingering
+				Tooltip: ""
+			}
+
+			common_molten_heart: {
+				DisplayName: Molten_Heart Potion
+				Tooltip: ""
+			}
+
+			common_molten_heart_splash: {
+				DisplayName: Molten_Heart Potion splash
+				Tooltip: ""
+			}
+
+			common_molten_heart_lingering: {
+				DisplayName: Molten_Heart Potion lingering
+				Tooltip: ""
+			}
+
+			common_long_molten_heart: {
+				DisplayName: Long_Molten_Heart Potion
+				Tooltip: ""
+			}
+
+			common_long_molten_heart_splash: {
+				DisplayName: Long_Molten_Heart Potion splash
+				Tooltip: ""
+			}
+
+			common_long_molten_heart_lingering: {
+				DisplayName: Long_Molten_Heart Potion lingering
+				Tooltip: ""
+			}
+		}
+	}
+}

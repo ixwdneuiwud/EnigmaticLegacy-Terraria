@@ -1,0 +1,90 @@
+Mods: {
+	EnigmaticLegacy: {
+		Buffs: {
+			RegenerationI: {
+				DisplayName: 再生 I
+				Description: 每 2.5 秒回复 1 原作生命；同家族仅最高等级生效
+			}
+
+			StrengthI: {
+				DisplayName: 力量 I
+				Description: 近战伤害 +3 原作点
+			}
+
+			ResistanceI: {
+				DisplayName: 抗性 I
+				Description: 受到攻击伤害降低 20%
+			}
+
+			AbsorptionI: {
+				DisplayName: 吸收 I
+				Description: 提供 4 原作生命的临时吸收；到期移除
+			}
+
+			AbsorptionII: {
+				DisplayName: 吸收 II
+				Description: 提供 8 原作生命的临时吸收；到期移除
+			}
+
+			SwiftnessI: {
+				DisplayName: 迅捷 I
+				Description: 移动速度 +20%
+			}
+
+			LeapingI: {
+				DisplayName: 跳跃 I
+				Description: 提高跳跃高度
+			}
+
+			SlownessI: {
+				DisplayName: 缓慢 I
+				Description: 移动速度降低 15%
+			}
+
+			SlownessII: {
+				DisplayName: 缓慢 II
+				Description: 移动速度降低 30%
+			}
+
+			SlownessIII: {
+				DisplayName: 缓慢 III
+				Description: 移动速度降低 45%
+			}
+
+			WeaknessII: {
+				DisplayName: 虚弱 II
+				Description: 近战伤害降低 8 原作点
+			}
+
+			WeaknessIII: {
+				DisplayName: 虚弱 III
+				Description: 近战伤害降低 12 原作点
+			}
+		}
+
+		DamageClasses: {
+			DarknessDamage.DisplayName: 黑暗伤害
+			NemesisDamage.DisplayName: 报应诅咒伤害
+			WitherDamage.DisplayName: 凋零伤害
+			VoidDamage.DisplayName: 虚空伤害
+			IndirectMagicDamage.DisplayName: 间接魔法伤害
+			ExplosionDamage.DisplayName: 爆炸伤害
+		}
+
+		Configs: {
+			LegacyClientConfig: {
+				DisplayName: 叙事语音与字幕
+
+				NarratorVoice: {
+					Label: 原作叙事语音
+					Tooltip: 播放休眠之眼解锁的原作语音
+				}
+
+				NarratorSubtitles: {
+					Label: 叙事字幕
+					Tooltip: 显示随语言切换的中文或英文字幕
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "path": "ModSources/EnigmaticLegacy/Assets/Items/nether_star.png",
+    "entry": "assets/minecraft/textures/item/nether_star.png",
+    "sha256": "b5818b7ad409c28c9a10f6ea35ad85c52b8408045523810a7062cd38676deb1a",
+    "owner": "Mojang / Microsoft",
+    "version": "Minecraft 1.20.1",
+    "size": [
+      32,
+      32
+    ],
+    "rgbaSha256": "fa48e9631bd5081692bf3bed178832fd3f677c4466d06ebc9d2bfcf2b5104045"
+  },
+  {
+    "path": "ModSources/EnigmaticLegacy/Assets/Slots/boots.png",
+    "entry": "assets/minecraft/textures/item/empty_armor_slot_boots.png",
+    "sha256": "d152cc48d96b6cdb43a48bedfd12a3989b4a711daf37e2be5fbbc106d75725d3",
+    "owner": "Mojang / Microsoft",
+    "version": "Minecraft 1.20.1",
+    "size": [
+      32,
+      32
+    ],
+    "rgbaSha256": "74e5bb0e3a1567ce339c2cea1d0a4576d831b7776b2b228adb2747230ae1c396"
+  },
+  {
+    "path": "ModSources/EnigmaticLegacy/Assets/Slots/boots_ui.png",
+    "entry": "assets/minecraft/textures/item/empty_armor_slot_boots.png",
+    "sha256": "de038a34cc8df6f47f871dbc39a6c889688a65e2fd852e734366f246797e2978",
+    "owner": "Mojang / Microsoft",
+    "version": "Minecraft 1.20.1",
+    "size": [
+      32,
+      32
+    ],
+    "rgbaSha256": "9c924fba02914142c5b8029bdad729841ac2045b073b778b8c9f550514bd8203",
+    "liftPalette": true
+  }
+]

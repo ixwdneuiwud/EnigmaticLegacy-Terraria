@@ -1,0 +1,20 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			astral_block: {
+				DisplayName: Sack of Astral Dust
+				Tooltip: Can be placed; compressed from nine Astral Dust
+			}
+
+			etherium_block: {
+				DisplayName: Block of Etherium
+				Tooltip: Can be placed; compressed from nine Etherium Ingots
+			}
+		}
+
+		Tiles: {
+			AstralBlockTile.MapEntry: Sack of Astral Dust
+			EtheriumBlockTile.MapEntry: Etherium Block
+		}
+	}
+}

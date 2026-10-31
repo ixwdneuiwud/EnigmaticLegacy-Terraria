@@ -1,0 +1,49 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			nether_star: {
+				DisplayName: 下界之星
+				Tooltip: ""
+			}
+
+			big_lamp: {
+			}
+
+			big_shroomlamp: {
+			}
+
+			end_anchor: {
+			}
+
+			massive_lamp: {
+			}
+
+			massive_shroomlamp: {
+			}
+		}
+
+		Conditions.BlessedHeart: 受祝福的天宇之心（获取口径待定）
+
+		Buffs: {
+			WitheringIV: {
+				DisplayName: 凋零 IV
+				Description: 持续受到凋零伤害
+			}
+
+			WeaknessIV: {
+				DisplayName: 虚弱 IV
+				Description: 近战伤害减少 16 原作点数
+			}
+		}
+
+		Projectiles: {
+			// LegacyEtheriumBolt.DisplayName: Legacy Etherium Bolt
+			// LegacyEtheriumScythe.DisplayName: Legacy Etherium Scythe
+			// LegacyInfinitumBolt.DisplayName: Legacy Infinitum Bolt
+			// LegacyPan.DisplayName: Legacy Pan
+			// LegacyPotionProjectile.DisplayName: Legacy Potion Projectile
+			// LegacySkull.DisplayName: Legacy Skull
+			// LegacyTwistBolt.DisplayName: Legacy Twist Bolt
+		}
+	}
+}

@@ -1,0 +1,386 @@
+{
+  "no_peril": {
+    "duration": 8.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Where there is no peril in the task - there can be no glory in its accomplishment."
+    ],
+    "zh_cn": [
+      "倘若过程中没有曲折艰辛，那也就无法成就最终的荣耀。"
+    ]
+  },
+  "end_doorstep": {
+    "duration": 6.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "The doorstep of The End... single step now separates you from it."
+    ],
+    "zh_cn": [
+      "终末之地的门户已经打开……只差迈出最后一步了。"
+    ]
+  },
+  "only_because": {
+    "duration": 6.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Only because you have fallen does not yet mean you backed down."
+    ],
+    "zh_cn": [
+      "跌倒，并不意味着你将就此踌躇不前。"
+    ]
+  },
+  "demise_is": {
+    "duration": 7.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Demise is but a temporary inconvenience for a demigod such as you."
+    ],
+    "zh_cn": [
+      "对于如你一样的半神而言，死亡不过是暂时的不便罢了。"
+    ]
+  },
+  "we_fall": {
+    "duration": 6.5,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "We fall, so that we may learn how to pick ourselves back up."
+    ],
+    "zh_cn": [
+      "我们之所以跌倒，是为了学习如何重新站起来。"
+    ]
+  },
+  "you_will_endure": {
+    "duration": 5.5,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "You will endure this loss, and learn from it."
+    ],
+    "zh_cn": [
+      "你将承担这次失败的代价，并从中吸取教训。"
+    ]
+  },
+  "oblivion_rejects": {
+    "duration": 9.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Oblivion rejects you... make use of such opportunity, while you still can."
+    ],
+    "zh_cn": [
+      "湮灭拒绝了你……不要浪费这次机会，趁你还有能力时好好利用它。"
+    ]
+  },
+  "setback": {
+    "duration": 5.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "A setback, but not a defeat."
+    ],
+    "zh_cn": [
+      "一次挫折，绝非失败。"
+    ]
+  },
+  "death_may": {
+    "duration": 8.25,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Death may impede your conquest, but only broken will can halt it."
+    ],
+    "zh_cn": [
+      "死亡可能会阻挡你前进的脚步，但只要意志尚存，这就只是暂时的障碍。"
+    ]
+  },
+  "eternity_to_keep": {
+    "duration": 7.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "You have eternity to keep trying. Do what it takes."
+    ],
+    "zh_cn": [
+      "不惜一切代价去尝试吧——你的不朽意味着你还有无数次机会。"
+    ]
+  },
+  "violence_calls": {
+    "duration": 7.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Violence calls for vengeance. Return, and dispense it!"
+    ],
+    "zh_cn": [
+      "暴力必将唤起复仇。现在回归，还以颜色！"
+    ]
+  },
+  "immortal": {
+    "duration": 8.5,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "You are immortal! Return and give that pitiful creature a demonstration of this fact."
+    ],
+    "zh_cn": [
+      "你即为不朽！回归，向那可怜造物展示你的力量！"
+    ]
+  },
+  "appaling_presence": {
+    "duration": 9.5,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "The shell is gone... but appalling presence will forever remain imprinted upon this realm."
+    ],
+    "zh_cn": [
+      "它的躯壳已逝……但留下的伤痕仍然深深刻在这方土地之上。"
+    ]
+  },
+  "its_destruction": {
+    "duration": 9.0,
+    "starts": [
+      0.0
+    ],
+    "en_us": [
+      "Its destruction is a small consolation... given the implications of its terrible existence."
+    ],
+    "zh_cn": [
+      "它的毁灭无疑是莫大慰藉……尤其考虑到其存在本身造成的后患。"
+    ]
+  },
+  "i_wandered": {
+    "duration": 11.5,
+    "starts": [
+      0.0,
+      4.75
+    ],
+    "en_us": [
+      "Yes, I wandered those lands many times...",
+      "A desolate reminder of everything that was, and all that could have been."
+    ],
+    "zh_cn": [
+      "我曾数次游历过这些破碎的陆地……",
+      "沧海桑田，繁华转瞬即逝，只留下满目荒凉。"
+    ]
+  },
+  "another_demigod": {
+    "duration": 14.0,
+    "starts": [
+      0.0,
+      5.25
+    ],
+    "en_us": [
+      "Another demigod wanders this forsaken land...",
+      "Let me accompany you in your journey. Perhaps, you will manage that which others could not."
+    ],
+    "zh_cn": [
+      "又一位游荡在这废弃土地上的半神……",
+      "让我在这段旅途中陪伴你吧。人生苦短，但或许你能成就他人穷极一生都无法完成之事。"
+    ]
+  },
+  "another_eon": {
+    "duration": 12.0,
+    "starts": [
+      0.0,
+      7.5
+    ],
+    "en_us": [
+      "Another eon, another wanderer. Another story to be told...",
+      "I will observe yours with great curiosity."
+    ],
+    "zh_cn": [
+      "又一个时代，又一位流浪者。又一段故事开始了……",
+      "我将以我全部之热情见证你的传说。"
+    ]
+  },
+  "perhaps_you": {
+    "duration": 13.0,
+    "starts": [
+      0.0,
+      7.5
+    ],
+    "en_us": [
+      "Perhaps, you will be the one to uncover the long-forgotten history of this land...",
+      "If so, I must bear witness to your accomplishments."
+    ],
+    "zh_cn": [
+      "或许，你将最终发掘这世界早已遗忘的秘密……",
+      "倘若如此，我便是这无上成就的见证者。"
+    ]
+  },
+  "sulfur_air": {
+    "duration": 10.25,
+    "starts": [
+      0.0,
+      5.6
+    ],
+    "en_us": [
+      "Sulfur in the air, sharp scent of burnt rock and flesh...",
+      "This place is a Hell indeed."
+    ],
+    "zh_cn": [
+      "空气中弥漫着刺鼻的硫磺味、烧焦的大地，烧焦的尸体……",
+      "这便是名副其实的地狱。"
+    ]
+  },
+  "tortured_rocks": {
+    "duration": 12.25,
+    "starts": [
+      0.0,
+      7.5
+    ],
+    "en_us": [
+      "Tortured rocks, pale as bones, hanged up above infinite, all-consuming blackness.",
+      "The End... is almost like a fever dream."
+    ],
+    "zh_cn": [
+      "扭曲的、如骨般苍白的岩石，漂浮在这片无尽的、择人而噬的虚空之上。",
+      "末地……就如同一场荒唐的幻梦。"
+    ]
+  },
+  "breathes_relieved": {
+    "duration": 11.5,
+    "starts": [
+      0.0,
+      7.8
+    ],
+    "en_us": [
+      "The world breathes relieved without the burdensome presence of that horror...",
+      "So long at least."
+    ],
+    "zh_cn": [
+      "从如此沉重的恐怖之中解放出来，这世界都仿佛松了一口气……",
+      "至少，暂时如此。"
+    ]
+  },
+  "whether_it_is": {
+    "duration": 12.5,
+    "starts": [
+      0.0,
+      7.6
+    ],
+    "en_us": [
+      "Whether it is power, or redemption that you seek in repeatedly returning Wither from and to its grave...",
+      "...at least, you give that damnable creature a purpose."
+    ],
+    "zh_cn": [
+      "在你不断让凋灵复生而又亲手将其送入坟墓之时……你是否找到了你所追求的力量或救赎呢？",
+      "至少，你为这该死的生物赋予了存在的意义。"
+    ]
+  },
+  "poor_creature": {
+    "duration": 15.0,
+    "starts": [
+      0.0,
+      7.9
+    ],
+    "en_us": [
+      "Poor creature... The last of her kind, bound to guard the godforsaken island...",
+      "...in the middle of nothingness. Lay her to the deserved rest."
+    ],
+    "zh_cn": [
+      "可怜的生物……最后一条巨龙，孤单的守护着同样孤单的岛屿……",
+      "……直到永恒。让它得到真正的安息吧。"
+    ]
+  },
+  "horrible_existence": {
+    "duration": 12.0,
+    "starts": [
+      0.0,
+      7.6
+    ],
+    "en_us": [
+      "What a horrible existence... Brought back from the dead, only to be slain once more.",
+      "You must truly be devoid of compassion."
+    ],
+    "zh_cn": [
+      "可悲、可怜……打扰它的长眠，只为再次让它体会到死亡的苦痛……",
+      "你可是真的毫无慈悲啊。"
+    ]
+  },
+  "countless_dead": {
+    "duration": 16.0,
+    "starts": [
+      0.0,
+      8.8
+    ],
+    "en_us": [
+      "Countless dead souls, merged into abomination of such terrible form that it defies description.",
+      "The earth is stained by the very presence of this foul creature."
+    ],
+    "zh_cn": [
+      "无穷无尽的逝去的灵魂，其怨念最终化成了难以言表的恐怖怪物……",
+      "位于如此邪恶的生物之下，这片大地都在恐惧中颤抖。"
+    ]
+  },
+  "with_dragons": {
+    "duration": 32.0,
+    "starts": [
+      0.0,
+      9.7,
+      14.0,
+      21.2
+    ],
+    "en_us": [
+      "With dragon's imminent demise, this place seems even more empty and purposeless than before.",
+      "Will you wander those fractured, deserted lands...",
+      "...or return to the facade of sanity and liveliness the Overworld provides?",
+      "Of course, we both know the answer... you cannot resist exploring the unknown, be it now or later."
+    ],
+    "zh_cn": [
+      "随着末影龙的逝去，这片虚空变得比以往更加空旷、更加毫无生机。",
+      "你会继续向着这片破碎的大地深处探索……",
+      "……还是回到主世界，回到理智与活力的怀抱中？",
+      "当然，你我都心知肚明……你无法抗拒探索这片无尽的未知的冲动，只是时间早晚的问题。"
+    ]
+  },
+  "terrifying_form": {
+    "duration": 14.5,
+    "starts": [
+      0.0,
+      6.2
+    ],
+    "en_us": [
+      "...its terrifying form is destructible, but not its soul.",
+      "It bears curse not dissimilar to yours... Curse of immortality."
+    ],
+    "zh_cn": [
+      "……它可怖的躯壳并非永生，但它的灵魂永不安息。",
+      "它身上有着不死的诅咒……与你所背负的如出一辙。"
+    ]
+  },
+  "toll_paid": {
+    "duration": 11.5,
+    "starts": [
+      0.0,
+      7.4
+    ],
+    "en_us": [
+      "With the toll paid, you are free from the burdensome swell of hatred and sorrow...",
+      "...imprisoned in that ring."
+    ],
+    "zh_cn": [
+      "命运的代价得到了支付。你终于能够从这戒指所带来的仇恨与悲伤中……",
+      "……得到救赎与解脱。"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+.build/
+.artifacts/
+.dependencies/
+bin/
+obj/
+*.tmod
+*.user
+*.log
+*.plr
+*.wld
+*.bak
+__pycache__/
+.DS_Store
+/ModSources/EnigmaticLegacy/Assets/Items/nether_star.png
+/ModSources/EnigmaticLegacy/Assets/Slots/boots.png
+/ModSources/EnigmaticLegacy/Assets/Slots/boots_ui.png

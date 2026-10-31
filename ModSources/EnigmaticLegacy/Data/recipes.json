@@ -1,0 +1,2632 @@
+[
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:animal_guidebook"
+      }
+    ],
+    "pattern": [
+      " n ",
+      "fXf",
+      " a "
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:book"
+      },
+      "n": {
+        "item": "minecraft:gold_nugget"
+      },
+      "f": {
+        "item": "minecraft:dandelion"
+      },
+      "a": {
+        "item": "minecraft:apple"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:animal_guidebook"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/animal_guidebook.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:astral_block"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      {
+        "item": "enigmaticlegacy:astral_dust"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:astral_block"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/astral_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:astral_block"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:astral_block"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:astral_dust",
+      "count": 9
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/astral_block_uncrafting.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:astral_breaker"
+      }
+    ],
+    "pattern": [
+      "aWa",
+      "PXS",
+      "aba"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:ender_eye"
+      },
+      "b": {
+        "item": "minecraft:dragon_breath"
+      },
+      "a": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "P": {
+        "item": "enigmaticlegacy:etherium_pickaxe"
+      },
+      "W": {
+        "item": "enigmaticlegacy:etherium_axe"
+      },
+      "S": {
+        "item": "enigmaticlegacy:etherium_shovel"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:astral_breaker"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/astral_breaker.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "NPN",
+      "PAP",
+      "NPN"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:baked_potato"
+      },
+      "N": {
+        "item": "minecraft:gold_nugget"
+      },
+      "A": {
+        "item": "enigmaticlegacy:astral_dust"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:astral_potato",
+      "count": 4
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/astral_potato.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:avarice_scroll"
+      }
+    ],
+    "pattern": [
+      "GRG",
+      "IXF",
+      "GHG"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:darkest_scroll"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "R": {
+        "item": "enigmaticlegacy:golden_ring"
+      },
+      "H": {
+        "item": "enigmaticlegacy:twisted_heart"
+      },
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:avarice_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/avarice_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:berserk_charm"
+      }
+    ],
+    "pattern": [
+      "MSM",
+      "PXP",
+      "TIT"
+    ],
+    "key": {
+      "M": {
+        "item": "minecraft:crimson_fungus"
+      },
+      "S": {
+        "item": "minecraft:golden_sword"
+      },
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "X": {
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:berserk_charm"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/berserk_charm.json"
+  },
+  {
+    "type": "enigmaticlegacy:bind_to_player",
+    "sourceFile": "data/enigmaticlegacy/recipes/bind_to_player.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:cosmic_cake"
+      }
+    ],
+    "pattern": [
+      "TBT",
+      "AXA",
+      "FCF"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "F": {
+        "item": "minecraft:chorus_fruit"
+      },
+      "A": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "C": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "X": {
+        "item": "minecraft:cake"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:cosmic_cake"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/cosmic_cake.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:cosmic_heart"
+      }
+    ],
+    "pattern": [
+      "DSD",
+      "PXP",
+      "DED"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "D": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "S": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:cosmic_heart"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/cosmic_heart.json"
+  },
+  {
+    "type": "enigmaticlegacy:crafting_shaped_hidden",
+    "sourceFile": "data/enigmaticlegacy/recipes/crafting_shaped_hidden.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:cursed_scroll"
+      }
+    ],
+    "pattern": [
+      "MHM",
+      "IXF",
+      "RBR"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:darkest_scroll"
+      },
+      "M": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "B": {
+        "item": "minecraft:enchanted_book"
+      },
+      "H": {
+        "item": "enigmaticlegacy:twisted_heart"
+      },
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:cursed_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/cursed_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:cursed_stone"
+      }
+    ],
+    "pattern": [
+      "LXL",
+      "ERE",
+      "CSC"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:stone"
+      },
+      "L": {
+        "item": "minecraft:lava_bucket"
+      },
+      "C": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "S": {
+        "item": "minecraft:nether_star"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "X": {
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:cursed_stone"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/cursed_stone.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:curse_transposer"
+      }
+    ],
+    "pattern": [
+      "RTR",
+      "PXP",
+      "RER"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:enchantment_transposer"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "P": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:curse_transposer"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/curse_transposer.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:desolation_ring"
+      }
+    ],
+    "pattern": [
+      "HAH",
+      "NXN",
+      "EPE"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:golden_ring"
+      },
+      "H": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "A": {
+        "item": "enigmaticlegacy:abyssal_heart"
+      },
+      "P": {
+        "item": "enigmaticlegacy:void_pearl"
+      },
+      "N": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:desolation_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/desolation_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:eldritch_pan"
+      }
+    ],
+    "pattern": [
+      "ESE",
+      "IHI",
+      "TRT"
+    ],
+    "key": {
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "H": {
+        "item": "enigmaticlegacy:abyssal_heart"
+      },
+      "I": {
+        "item": "enigmaticlegacy:evil_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:void_stone"
+      },
+      "R": {
+        "item": "enigmaticlegacy:ender_rod"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:eldritch_pan"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/eldritch_pan.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:enchanter_pearl"
+      }
+    ],
+    "pattern": [
+      " G ",
+      "EXE",
+      "POP"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:emerald"
+      },
+      "X": {
+        "item": "minecraft:ender_pearl"
+      },
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "O": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:enchanter_pearl"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/enchanter_pearl.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:enchantment_transposer"
+      }
+    ],
+    "pattern": [
+      "pnp",
+      "lXl",
+      "brb"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:book"
+      },
+      "b": {
+        "item": "minecraft:blaze_powder"
+      },
+      "l": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "p": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "n": {
+        "item": "minecraft:gold_nugget"
+      },
+      "r": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:enchantment_transposer"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/enchantment_transposer.json"
+  },
+  {
+    "type": "enigmaticlegacy:enchantment_transposing",
+    "sourceFile": "data/enigmaticlegacy/recipes/enchantment_transposing.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:ender_ring"
+      }
+    ],
+    "pattern": [
+      " C ",
+      "IXI",
+      "NPN"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:iron_ring"
+      },
+      "C": {
+        "item": "minecraft:ender_chest"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "N": {
+        "item": "minecraft:gold_nugget"
+      },
+      "P": {
+        "item": "minecraft:ender_pearl"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:ender_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/ender_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  b",
+      "aXa",
+      "b  "
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:ender_pearl"
+      },
+      "b": {
+        "item": "minecraft:blaze_rod"
+      },
+      "a": {
+        "item": "enigmaticlegacy:astral_dust"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:ender_rod",
+      "count": 2
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/ender_rod.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:ender_slayer"
+      }
+    ],
+    "pattern": [
+      "EOE",
+      "ROR",
+      "TST"
+    ],
+    "key": {
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "R": {
+        "item": "minecraft:ender_eye"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:ender_slayer"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/ender_slayer.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:end_anchor"
+      }
+    ],
+    "pattern": [
+      " E ",
+      "IXI",
+      "SNS"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:respawn_anchor"
+      },
+      "S": {
+        "item": "minecraft:end_stone"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "I": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "N": {
+        "item": "enigmaticlegacy:eye_of_nebula"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:end_anchor"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/end_anchor.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:enigmatic_elytra"
+      }
+    ],
+    "pattern": [
+      "BAB",
+      "EXE",
+      "DND"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:elytra"
+      },
+      "B": {
+        "item": "minecraft:dragon_breath"
+      },
+      "A": {
+        "item": "enigmaticlegacy:angel_blessing"
+      },
+      "E": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "D": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "N": {
+        "item": "enigmaticlegacy:eye_of_nebula"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:enigmatic_elytra"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/enigmatic_elytra.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:escape_scroll"
+      }
+    ],
+    "pattern": [
+      "MPM",
+      "IXF",
+      "MEM"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:thicc_scroll"
+      },
+      "M": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "P": {
+        "item": "enigmaticlegacy:recall_potion"
+      },
+      "E": {
+        "item": "enigmaticlegacy:eye_of_nebula"
+      },
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:escape_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/escape_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_axe"
+      }
+    ],
+    "pattern": [
+      "X X",
+      "XSX",
+      " S "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:ender_rod"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_axe"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_axe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [],
+    "pattern": [
+      "III",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_block"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_block.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [],
+    "group": "enigmaticlegacy_etheriumingot",
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:etherium_block"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:etherium_ingot",
+      "count": 9
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_block_uncrafting.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_boots"
+      }
+    ],
+    "pattern": [
+      "   ",
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_boots"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_boots.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_chestplate"
+      }
+    ],
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_chestplate"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_chestplate.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_helmet"
+      }
+    ],
+    "pattern": [
+      "XXX",
+      "X X",
+      "   "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_helmet"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_helmet.json"
+  },
+  {
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "enigmaticlegacy:etherium_ore"
+    },
+    "result": "enigmaticlegacy:etherium_ingot",
+    "experience": 8.0,
+    "cookingtime": 400,
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_ingot.json"
+  },
+  {
+    "type": "minecraft:blasting",
+    "ingredient": {
+      "item": "enigmaticlegacy:etherium_ore"
+    },
+    "result": "enigmaticlegacy:etherium_ingot",
+    "experience": 8.0,
+    "cookingtime": 200,
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_ingot_from_blasting.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [],
+    "group": "enigmaticlegacy_etheriumingot",
+    "pattern": [
+      "III",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "enigmaticlegacy:etherium_nugget"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_ingot"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_ingot_nuggets.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:etherium_nugget",
+      "count": 9
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_ingot_uncrafting.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_leggings"
+      }
+    ],
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_leggings"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_leggings.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_pickaxe"
+      }
+    ],
+    "pattern": [
+      "XXX",
+      " S ",
+      " S "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:ender_rod"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_pickaxe"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_pickaxe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_scythe"
+      }
+    ],
+    "pattern": [
+      " XX",
+      " S ",
+      " S "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:ender_rod"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_scythe"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_scythe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_shovel"
+      }
+    ],
+    "pattern": [
+      " X ",
+      " S ",
+      " S "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:ender_rod"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_shovel"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_shovel.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:etherium_sword"
+      }
+    ],
+    "pattern": [
+      " X ",
+      "DXD",
+      " S "
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "S": {
+        "item": "enigmaticlegacy:ender_rod"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:etherium_sword"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/etherium_sword.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:evil_ingot"
+      }
+    ],
+    "pattern": [
+      "TET",
+      "EXE",
+      "TET"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:evil_ingot"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/evil_ingot.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:extradimensional_eye"
+      }
+    ],
+    "pattern": [
+      " M ",
+      "IXI",
+      "NBN"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:ender_eye"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "N": {
+        "item": "minecraft:gold_nugget"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "M": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:extradimensional_eye"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/extradimensional_eye.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:fabulous_scroll"
+      }
+    ],
+    "pattern": [
+      "IAI",
+      "AXA",
+      "BEB"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:heaven_scroll"
+      },
+      "I": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "A": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "B": {
+        "item": "minecraft:dragon_breath"
+      },
+      "E": {
+        "item": "minecraft:elytra"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:fabulous_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/fabulous_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:forbidden_axe"
+      }
+    ],
+    "pattern": [
+      "ISI",
+      "PXP",
+      " R "
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:diamond_axe"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "R": {
+        "item": "minecraft:blaze_rod"
+      },
+      "S": {
+        "item": "minecraft:wither_skeleton_skull"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:forbidden_axe"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/forbidden_axe.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:golden_ring"
+      }
+    ],
+    "pattern": [
+      "nIn",
+      "IXI",
+      "nIn"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:iron_ring"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "n": {
+        "item": "minecraft:gold_nugget"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:golden_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/golden_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:heaven_scroll"
+      }
+    ],
+    "pattern": [
+      "GSG",
+      "IXF",
+      "LAL"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:thicc_scroll"
+      },
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      },
+      "S": {
+        "item": "minecraft:nether_star"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "L": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "A": {
+        "item": "enigmaticlegacy:angel_blessing"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:heaven_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/heaven_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:hunter_guidebook"
+      }
+    ],
+    "pattern": [
+      "bp ",
+      "nXn",
+      " lb"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:book"
+      },
+      "n": {
+        "item": "minecraft:gold_nugget"
+      },
+      "p": {
+        "item": "minecraft:ender_pearl"
+      },
+      "l": {
+        "item": "minecraft:leather"
+      },
+      "b": {
+        "item": "minecraft:bone"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:hunter_guidebook"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/hunter_guidebook.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:infernal_shield"
+      }
+    ],
+    "pattern": [
+      "PIP",
+      "RSR",
+      "OCO"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "R": {
+        "item": "minecraft:blaze_rod"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      },
+      "S": {
+        "item": "minecraft:shield"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "C": {
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:infernal_shield"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/infernal_shield.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:infinimeal"
+      }
+    ],
+    "pattern": [
+      "CVF",
+      "AXW",
+      "PLN"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:earth_heart"
+      },
+      "C": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "V": {
+        "item": "minecraft:weeping_vines"
+      },
+      "F": {
+        "item": "minecraft:warped_fungus"
+      },
+      "W": {
+        "item": "minecraft:wheat"
+      },
+      "N": {
+        "item": "minecraft:nether_wart"
+      },
+      "L": {
+        "item": "minecraft:lily_pad"
+      },
+      "P": {
+        "item": "minecraft:poppy"
+      },
+      "A": {
+        "item": "minecraft:apple"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:infinimeal"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/infinimeal.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " E ",
+      "GMG",
+      "PNP"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "P": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "M": {
+        "item": "minecraft:emerald"
+      },
+      "N": {
+        "item": "minecraft:name_tag"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:insignia",
+      "count": 1
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/insignia.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:iron_ring"
+      }
+    ],
+    "pattern": [
+      "nXn",
+      "X X",
+      "nXn"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:iron_ingot"
+      },
+      "n": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:iron_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/iron_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:big_lamp"
+      }
+    ],
+    "pattern": [
+      "ici",
+      "gXg",
+      "igi"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:glowstone"
+      },
+      "i": {
+        "item": "minecraft:iron_ingot"
+      },
+      "g": {
+        "item": "minecraft:gold_nugget"
+      },
+      "c": {
+        "item": "minecraft:chain"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:big_lamp",
+      "count": 2
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/big_lamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:big_redstonelamp"
+      }
+    ],
+    "pattern": [
+      "ici",
+      "gXg",
+      "igi"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:redstone_lamp"
+      },
+      "i": {
+        "item": "minecraft:iron_ingot"
+      },
+      "g": {
+        "item": "minecraft:gold_nugget"
+      },
+      "c": {
+        "item": "minecraft:chain"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:big_redstonelamp",
+      "count": 2
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/big_redstonelamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:big_shroomlamp"
+      }
+    ],
+    "pattern": [
+      "ici",
+      "gXg",
+      "igi"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:shroomlight"
+      },
+      "i": {
+        "item": "minecraft:iron_ingot"
+      },
+      "g": {
+        "item": "minecraft:gold_nugget"
+      },
+      "c": {
+        "item": "minecraft:chain"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:big_shroomlamp",
+      "count": 2
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/big_shroomlamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:massive_lamp"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:big_lamp"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:massive_lamp"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/massive_lamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:massive_redstonelamp"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:big_redstonelamp"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:massive_redstonelamp"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/massive_redstonelamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:massive_shroomlamp"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:big_shroomlamp"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:massive_shroomlamp"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lamps/massive_shroomlamp.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "nXn",
+      " X ",
+      "   "
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:paper"
+      },
+      "n": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:lore_fragment"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lore_fragment.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:lore_inscriber"
+      }
+    ],
+    "pattern": [
+      " a ",
+      "iXf",
+      " b "
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:glass_bottle"
+      },
+      "b": {
+        "item": "minecraft:blaze_powder"
+      },
+      "i": {
+        "item": "minecraft:ink_sac"
+      },
+      "f": {
+        "item": "minecraft:feather"
+      },
+      "a": {
+        "item": "enigmaticlegacy:astral_dust"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:lore_inscriber"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/lore_inscriber.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:magnet_ring"
+      }
+    ],
+    "pattern": [
+      " D ",
+      "IXG",
+      " R "
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "X": {
+        "item": "enigmaticlegacy:iron_ring"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:magnet_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/magnet_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:mega_sponge"
+      }
+    ],
+    "pattern": [
+      "SES",
+      "XNX",
+      "STS"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "N": {
+        "item": "minecraft:nautilus_shell"
+      },
+      "S": {
+        "item": "minecraft:sponge"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:mega_sponge"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/mega_sponge.json"
+  },
+  {
+    "type": "enigmaticlegacy:shapeless_no_return_craft",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:mending_mixture"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:dragon_breath"
+      },
+      {
+        "item": "minecraft:glistering_melon_slice"
+      },
+      {
+        "item": "minecraft:prismarine_crystals"
+      },
+      {
+        "item": "minecraft:phantom_membrane"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:ghast_tear"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:mending_mixture"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/mending_mixture.json"
+  },
+  {
+    "type": "enigmaticlegacy:mending_mixture_repair",
+    "sourceFile": "data/enigmaticlegacy/recipes/mending_mixture_repair.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:mining_charm"
+      }
+    ],
+    "pattern": [
+      "NDN",
+      "IXI",
+      "GTG"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "N": {
+        "item": "minecraft:iron_nugget"
+      },
+      "I": {
+        "item": "minecraft:gold_ingot"
+      },
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "X": {
+        "item": "enigmaticlegacy:earth_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:mining_charm"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/mining_charm.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:monster_charm"
+      }
+    ],
+    "pattern": [
+      " S ",
+      "PXP",
+      "EIE"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "E": {
+        "item": "minecraft:experience_bottle"
+      },
+      "S": {
+        "item": "minecraft:soul_lantern"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:monster_charm"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/monster_charm.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:soul_compass"
+      }
+    ],
+    "pattern": [
+      " S ",
+      "BXB",
+      "GCI"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "S": {
+        "item": "minecraft:soul_lantern"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "C": {
+        "item": "enigmaticlegacy:twisted_heart"
+      },
+      "X": {
+        "item": "minecraft:compass"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:soul_compass"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/soul_compass.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:super_magnet_ring"
+      }
+    ],
+    "pattern": [
+      "LEL",
+      "GXG",
+      "LGL"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:magnet_ring"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "L": {
+        "item": "minecraft:lapis_lazuli"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:super_magnet_ring"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/super_magnet_ring.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:the_acknowledgment"
+      }
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "minecraft:lantern"
+      }
+    ],
+    "result": {
+      "item": "enigmaticlegacy:the_acknowledgment"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/the_acknowledgment.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:the_infinitum"
+      }
+    ],
+    "pattern": [
+      "HPH",
+      "EXE",
+      "NAN"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:the_twist"
+      },
+      "H": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "A": {
+        "item": "enigmaticlegacy:abyssal_heart"
+      },
+      "P": {
+        "item": "enigmaticlegacy:enchanter_pearl"
+      },
+      "N": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:the_infinitum"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/the_infinitum.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:the_twist"
+      }
+    ],
+    "pattern": [
+      "ERE",
+      "IXI",
+      "ECE"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "E": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "I": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "C": {
+        "item": "enigmaticlegacy:twisted_heart"
+      },
+      "X": {
+        "item": "enigmaticlegacy:the_acknowledgment"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:the_twist"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/the_twist.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "nX ",
+      " X ",
+      " Xn"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:paper"
+      },
+      "n": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:thicc_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/thicc_scroll.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [],
+    "group": "enigmaticlegacy_tomeuncrafting",
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:corrupted_tome"
+      }
+    ],
+    "result": {
+      "item": "minecraft:paper",
+      "count": 3
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/tome_uncrafting/corrupted_tome.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [],
+    "group": "enigmaticlegacy_tomeuncrafting",
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:tattered_tome"
+      }
+    ],
+    "result": {
+      "item": "minecraft:paper",
+      "count": 3
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/tome_uncrafting/tattered_tome.json"
+  },
+  {
+    "type": "minecraft:crafting_shapeless",
+    "conditions": [],
+    "group": "enigmaticlegacy_tomeuncrafting",
+    "ingredients": [
+      {
+        "item": "enigmaticlegacy:withered_tome"
+      }
+    ],
+    "result": {
+      "item": "minecraft:paper",
+      "count": 3
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/tome_uncrafting/withered_tome.json"
+  },
+  {
+    "type": "enigmaticlegacy:crafting_shaped_cursed",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    ],
+    "pattern": [
+      " T ",
+      "PXP",
+      "RER"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:blaze_powder"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      },
+      "X": {
+        "item": "enigmaticlegacy:earth_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:twisted_heart"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/twisted_heart.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:twisted_mirror"
+      }
+    ],
+    "pattern": [
+      "IPI",
+      "RXR",
+      " I "
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:glass_pane"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "R": {
+        "item": "enigmaticlegacy:recall_potion"
+      },
+      "X": {
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:twisted_mirror"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/twisted_mirror.json"
+  },
+  {
+    "type": "enigmaticlegacy:void_stone_combine",
+    "sourceFile": "data/enigmaticlegacy/recipes/void_stone_combine.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:black_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:black_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/black_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:blue_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:blue_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/blue_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:brown_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:brown_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/brown_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:cyan_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:cyan_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/cyan_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:gray_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:gray_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/gray_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:green_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:green_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/green_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:light_blue_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:light_blue_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/light_blue_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:light_gray_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:light_gray_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/light_gray_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:lime_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:lime_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/lime_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:magenta_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:magenta_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/magenta_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:orange_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:orange_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/orange_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:pink_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:pink_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/pink_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:purple_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:purple_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/purple_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:red_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:red_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/red_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:bonuswoolrecipes"
+      }
+    ],
+    "group": "enigmaticlegacy_bonuswoolrecipes",
+    "pattern": [
+      "www",
+      "wXw",
+      "www"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:yellow_dye"
+      },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:yellow_wool",
+      "count": 8
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/wool/yellow_wool.json"
+  },
+  {
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+        "type": "enigmaticlegacy:is_enabled",
+        "item": "enigmaticlegacy:xp_scroll"
+      }
+    ],
+    "pattern": [
+      "BEB",
+      "IXF",
+      "BGB"
+    ],
+    "key": {
+      "X": {
+        "item": "enigmaticlegacy:thicc_scroll"
+      },
+      "F": {
+        "item": "minecraft:feather"
+      },
+      "I": {
+        "item": "minecraft:ink_sac"
+      },
+      "B": {
+        "item": "minecraft:experience_bottle"
+      },
+      "E": {
+        "item": "minecraft:ender_eye"
+      },
+      "G": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:xp_scroll"
+    },
+    "sourceFile": "data/enigmaticlegacy/recipes/xp_scroll.json"
+  }
+]

@@ -1,0 +1,160 @@
+Mods: {
+	EnigmaticLegacy: {
+		Buffs: {
+			Withering: {
+				DisplayName: Withering
+				Description: Withering damage over time
+			}
+
+			LesserWithering: {
+				DisplayName: Withering II
+				Description: Takes 1 source point of wither damage per second
+			}
+
+			DevouringDarkness: {
+				DisplayName: Devouring Darkness
+				Description: Darkness damage over time
+			}
+
+			LegacyWeakness: {
+				DisplayName: Weakness
+				Description: Reduces melee damage by 4 source points
+			}
+
+			StrongRegeneration: {
+				DisplayName: Regeneration II
+				Description: Restores 1 source health every 1.25 seconds; only the highest rank applies
+			}
+
+			RegenerationIII: {
+				DisplayName: Regeneration III
+				Description: Restores 1 source health every 0.6 seconds; only the highest rank applies
+			}
+
+			RegenerationIV: {
+				DisplayName: Regeneration IV
+				Description: Restores 1 source health every 0.3 seconds; only the highest rank applies
+			}
+
+			StrengthIV: {
+				DisplayName: Strength IV
+				Description: Adds 12 source points to melee damage; only the highest rank applies
+			}
+
+			ResistanceII: {
+				DisplayName: Resistance II
+				Description: 40% less incoming attack damage; only the highest rank applies
+			}
+
+			ResistanceIII: {
+				DisplayName: Resistance III
+				Description: 60% less incoming attack damage; only the highest rank applies
+			}
+
+			AbsorptionV: {
+				DisplayName: Absorption V
+				Description: Grants 20 source health of temporary absorption, removed when the effect expires
+			}
+
+			LegacyFireResistance: {
+				DisplayName: Fire Resistance
+				Description: Immunity to ordinary fire, lava and recognized fire projectiles
+			}
+
+			LegacySlowFalling: {
+				DisplayName: Slow Falling
+				Description: Slower falling and protection from fall damage
+			}
+
+			LegacyStrength: {
+				DisplayName: Strength II
+				Description: Adds 6 source points to melee damage; only the highest rank applies
+			}
+
+			LegacyHaste: {
+				DisplayName: Haste
+				Description: +20% mining speed and +10% attack speed
+			}
+
+			StrongHaste: {
+				DisplayName: Haste II
+				Description: +40% mining speed and +20% attack speed
+			}
+
+			StrongPoison: {
+				DisplayName: Poison II
+				Description: Loses health over time; this poison cannot kill
+			}
+
+			MoltenHeart: {
+				DisplayName: Molten Heart
+				Description: Ordinary fire and lava immunity
+			}
+
+			LegacySwiftness: {
+				DisplayName: Swiftness II
+				Description: +40% movement speed
+			}
+
+			LegacyLeaping: {
+				DisplayName: Leaping II
+				Description: Increased jump height
+			}
+
+			LegacySlowness: {
+				DisplayName: Slowness IV
+				Description: 60% reduced movement speed
+			}
+
+			LegacyTurtleMaster: {
+				DisplayName: Turtle Master
+				Description: 90% reduced movement speed; 80% damage resistance
+			}
+		}
+
+		Configs: {
+			PortConfig: {
+				DisplayName: Enigmatic Legacy port settings
+
+				HealthAndDamageScale: {
+					Label: Health and fixed damage scale
+					Tooltip: Terraria points per source point; reload required
+				}
+
+				ArmorScale: {
+					Label: Armor scale
+					Tooltip: Terraria defense per source armor point; reload required
+				}
+
+				DedicatedSpellstoneSlot: {
+					Label: Dedicated spellstone slot
+					Tooltip: Adds a native slot limited to spellstones
+				}
+
+				StartingGifts: {
+					Label: First-entry gifts
+					Tooltip: Give an amulet, journal and ring on the character's first entry with this mod
+				}
+
+				PermanentCurses: {
+					Label: Bind curses on equip
+					Tooltip: Equipping the ring binds its curses until the severance ritual
+				}
+
+				AllowMultipleSpellstones: {
+					Label: Allow multiple spellstones
+					Tooltip: Enables combined passives; V uses the first processed spellstone
+				}
+			}
+		}
+
+		Keybinds: {
+			Spellstone.DisplayName: Spellstone ability
+			EnderStorage.DisplayName: Void Vault
+			Magnet.DisplayName: Toggle magnet
+			Shield.DisplayName: Raise Infernal Shield
+		}
+
+		Conditions.Cursed: Bearer of the Seven Curses
+	}
+}

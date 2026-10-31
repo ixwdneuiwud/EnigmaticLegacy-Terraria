@@ -1,0 +1,7 @@
+displayName = 神秘遗物：泰拉瑞亚移植 / Enigmatic Legacy
+author = Terraria port; original Minecraft mod by Aizistral
+version = 0.1.19
+side = Both
+includeSource = true
+buildIgnore = *.csproj, *.user, bin/*, obj/*, docs/*, tools/*, Tests/*, README.md, .gitignore
+homepage = https://github.com/ixwdneuiwud/EnigmaticLegacy-Terraria

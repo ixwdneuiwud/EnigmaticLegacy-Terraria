@@ -1,0 +1,18 @@
+{
+  "source": "EnigmaticLegacy-2.30.0.jar",
+  "sha256": "e1241469bc96639bee3e2caa152b1767f1f25800429d582f57b4526cc39d5829",
+  "originalItems": 104,
+  "registeredItems": 176,
+  "upstream": "https://github.com/Aizistral-Studios/Enigmatic-Legacy",
+  "modifications": [
+    "Java/Forge to C#/tModLoader rewrite",
+    "nearest neighbour texture scale 2x",
+    "NBT variants converted to stable Terraria item IDs",
+    "Minecraft recipes mapped explicitly",
+    "Common potion sprites reuse EL bottles because vanilla Minecraft sprites are absent",
+    "XP, enchanting, hunger and weapon attacks deferred by user",
+    "Native prefixes; scroll bonuses doubled to 8/14/8 percent per overall-negative equipped prefix",
+    "Logical Overworld/Nether regions distinguished by native Terraria Underworld height",
+    "Brewing converted to native bottle-station crafting with documented input analogues"
+  ]
+}

@@ -1,0 +1,160 @@
+Mods: {
+	EnigmaticLegacy: {
+		Buffs: {
+			Withering: {
+				DisplayName: 凋零
+				Description: 持续受到凋零伤害
+			}
+
+			LesserWithering: {
+				DisplayName: 凋零 II
+				Description: 每秒受到 1 点原作凋零伤害
+			}
+
+			DevouringDarkness: {
+				DisplayName: 吞噬黑暗
+				Description: 持续受到黑暗伤害
+			}
+
+			LegacyWeakness: {
+				DisplayName: 虚弱
+				Description: 近战固定伤害降低 4 点原作伤害
+			}
+
+			StrongRegeneration: {
+				DisplayName: 再生 II
+				Description: 每 1.25 秒回复 1 点原作生命；同类药效取最高等级
+			}
+
+			RegenerationIII: {
+				DisplayName: 再生 III
+				Description: 每 0.6 秒回复 1 点原作生命；同类药效取最高等级
+			}
+
+			RegenerationIV: {
+				DisplayName: 再生 IV
+				Description: 每 0.3 秒回复 1 点原作生命；同类药效取最高等级
+			}
+
+			StrengthIV: {
+				DisplayName: 力量 IV
+				Description: 近战固定伤害增加 12 点原作伤害；同类药效取最高等级
+			}
+
+			ResistanceII: {
+				DisplayName: 抗性 II
+				Description: 所受攻击伤害降低 40%；同类药效取最高等级
+			}
+
+			ResistanceIII: {
+				DisplayName: 抗性 III
+				Description: 所受攻击伤害降低 60%；同类药效取最高等级
+			}
+
+			AbsorptionV: {
+				DisplayName: 伤害吸收 V
+				Description: 获得相当于 20 点原作生命的临时吸收量，效果结束时清除
+			}
+
+			LegacyFireResistance: {
+				DisplayName: 抗火
+				Description: 免疫普通火焰、熔岩及已识别的火焰弹幕
+			}
+
+			LegacySlowFalling: {
+				DisplayName: 缓降
+				Description: 降低下落速度并避免坠落伤害
+			}
+
+			LegacyStrength: {
+				DisplayName: 力量 II
+				Description: 近战固定伤害增加 6 点原作伤害；同类药效取最高等级
+			}
+
+			LegacyHaste: {
+				DisplayName: 急迫
+				Description: 采掘速度 +20%，攻速 +10%
+			}
+
+			StrongHaste: {
+				DisplayName: 急迫 II
+				Description: 采掘速度 +40%，攻速 +20%
+			}
+
+			StrongPoison: {
+				DisplayName: 剧毒 II
+				Description: 持续失去生命，此毒不会直接致死
+			}
+
+			MoltenHeart: {
+				DisplayName: 熔火之心
+				Description: 免疫普通火焰和熔岩
+			}
+
+			LegacySwiftness: {
+				DisplayName: 迅捷 II
+				Description: 移动速度 +40%
+			}
+
+			LegacyLeaping: {
+				DisplayName: 跳跃 II
+				Description: 提高跳跃能力
+			}
+
+			LegacySlowness: {
+				DisplayName: 缓慢 IV
+				Description: 移动速度降低 60%
+			}
+
+			LegacyTurtleMaster: {
+				DisplayName: 神龟药水
+				Description: 移动速度降低 90%，伤害抗性 80%
+			}
+		}
+
+		Configs: {
+			PortConfig: {
+				DisplayName: 神秘遗物移植设置
+
+				HealthAndDamageScale: {
+					Label: 生命与固定伤害换算倍率
+					Tooltip: 原作 1 点换算的泰拉点数；修改后重新加载
+				}
+
+				ArmorScale: {
+					Label: 护甲换算倍率
+					Tooltip: 原作 1 护甲点换算的防御；修改后重新加载
+				}
+
+				DedicatedSpellstoneSlot: {
+					Label: 启用术石专用槽
+					Tooltip: 额外提供一个仅限术石的原生饰品槽
+				}
+
+				StartingGifts: {
+					Label: 首次入场赠礼
+					Tooltip: 角色首次进入启用本模组的世界时赠送护符、手册和七咒之戒
+				}
+
+				PermanentCurses: {
+					Label: 七咒永久绑定
+					Tooltip: 佩戴七咒之戒后需通过解除仪式移除诅咒
+				}
+
+				AllowMultipleSpellstones: {
+					Label: 允许多种术石同时佩戴
+					Tooltip: 开启后多种术石被动叠加，V 使用首先处理的术石主动
+				}
+			}
+		}
+
+		Keybinds: {
+			Spellstone.DisplayName: 术石主动技能
+			EnderStorage.DisplayName: 虚空保险库
+			Magnet.DisplayName: 磁力开关
+			Shield.DisplayName: 举起地狱盾
+		}
+
+		Conditions.Cursed: 承受七咒之人
+	}
+}

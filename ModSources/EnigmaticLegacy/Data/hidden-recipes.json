@@ -1,0 +1,171 @@
+[
+  {
+    "type": "enigmaticlegacy:crafting_shaped_hidden",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "enigmaticlegacy:golem_heart"
+      },
+      "B": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "C": {
+        "item": "enigmaticlegacy:blazing_core"
+      },
+      "D": {
+        "item": "enigmaticlegacy:angel_blessing"
+      },
+      "E": {
+        "item": "minecraft:obsidian"
+      },
+      "F": {
+        "item": "enigmaticlegacy:eye_of_nebula"
+      },
+      "G": {
+        "item": "enigmaticlegacy:ocean_stone"
+      },
+      "H": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "I": {
+        "item": "enigmaticlegacy:void_pearl"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:the_cube"
+    },
+    "sourceFile": "java_hidden/the_cube",
+    "originalSource": "com/aizistral/enigmaticlegacy/EnigmaticLegacy.java:loadComplete"
+  },
+  {
+    "type": "enigmaticlegacy:crafting_shaped_hidden",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "B": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "C": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "D": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "E": {
+        "item": "enigmaticlegacy:enigmatic_amulet"
+      },
+      "F": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "G": {
+        "item": "minecraft:dragon_breath"
+      },
+      "H": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "I": {
+        "item": "minecraft:dragon_breath"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:ascension_amulet"
+    },
+    "sourceFile": "java_hidden/ascension_amulet",
+    "originalSource": "com/aizistral/enigmaticlegacy/EnigmaticLegacy.java:loadComplete"
+  },
+  {
+    "type": "enigmaticlegacy:crafting_shaped_hidden",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "B": {
+        "item": "enigmaticlegacy:abyssal_heart"
+      },
+      "C": {
+        "item": "enigmaticlegacy:evil_essence"
+      },
+      "D": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "E": {
+        "item": "enigmaticlegacy:ascension_amulet"
+      },
+      "F": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "G": {
+        "item": "enigmaticlegacy:twisted_heart"
+      },
+      "H": {
+        "item": "minecraft:nether_star"
+      },
+      "I": {
+        "item": "enigmaticlegacy:twisted_heart"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:eldritch_amulet"
+    },
+    "sourceFile": "java_hidden/eldritch_amulet",
+    "originalSource": "com/aizistral/enigmaticlegacy/EnigmaticLegacy.java:loadComplete"
+  },
+  {
+    "type": "enigmaticlegacy:crafting_shaped_hidden",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "B": {
+        "item": "minecraft:enchanted_golden_apple"
+      },
+      "C": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "D": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "E": {
+        "item": "enigmaticlegacy:darkest_scroll"
+      },
+      "F": {
+        "item": "enigmaticlegacy:etherium_ingot"
+      },
+      "G": {
+        "item": "enigmaticlegacy:astral_dust"
+      },
+      "H": {
+        "item": "enigmaticlegacy:cosmic_heart"
+      },
+      "I": {
+        "item": "enigmaticlegacy:astral_dust"
+      }
+    },
+    "result": {
+      "item": "enigmaticlegacy:cosmic_scroll"
+    },
+    "sourceFile": "java_hidden/cosmic_scroll",
+    "originalSource": "com/aizistral/enigmaticlegacy/EnigmaticLegacy.java:loadComplete",
+    "requiresBlessedHeart": true
+  }
+]

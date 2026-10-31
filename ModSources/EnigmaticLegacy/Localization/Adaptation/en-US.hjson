@@ -1,0 +1,90 @@
+Mods: {
+	EnigmaticLegacy: {
+		Buffs: {
+			RegenerationI: {
+				DisplayName: Regeneration I
+				Description: Restores 1 source health every 2.5 seconds; only the highest rank applies
+			}
+
+			StrengthI: {
+				DisplayName: Strength I
+				Description: Adds 3 source points to melee damage
+			}
+
+			ResistanceI: {
+				DisplayName: Resistance I
+				Description: 20% less incoming attack damage
+			}
+
+			AbsorptionI: {
+				DisplayName: Absorption I
+				Description: Grants 4 source health of temporary absorption; removed on expiry
+			}
+
+			AbsorptionII: {
+				DisplayName: Absorption II
+				Description: Grants 8 source health of temporary absorption; removed on expiry
+			}
+
+			SwiftnessI: {
+				DisplayName: Swiftness I
+				Description: +20% movement speed
+			}
+
+			LeapingI: {
+				DisplayName: Leaping I
+				Description: Increased jump height
+			}
+
+			SlownessI: {
+				DisplayName: Slowness I
+				Description: 15% reduced movement speed
+			}
+
+			SlownessII: {
+				DisplayName: Slowness II
+				Description: 30% reduced movement speed
+			}
+
+			SlownessIII: {
+				DisplayName: Slowness III
+				Description: 45% reduced movement speed
+			}
+
+			WeaknessII: {
+				DisplayName: Weakness II
+				Description: Reduces melee damage by 8 source points
+			}
+
+			WeaknessIII: {
+				DisplayName: Weakness III
+				Description: Reduces melee damage by 12 source points
+			}
+		}
+
+		DamageClasses: {
+			DarknessDamage.DisplayName: darkness damage
+			NemesisDamage.DisplayName: nemesis curse damage
+			WitherDamage.DisplayName: wither damage
+			VoidDamage.DisplayName: void damage
+			IndirectMagicDamage.DisplayName: indirect magic damage
+			ExplosionDamage.DisplayName: explosion damage
+		}
+
+		Configs: {
+			LegacyClientConfig: {
+				DisplayName: Narrator voice and subtitles
+
+				NarratorVoice: {
+					Label: Original narrator voices
+					Tooltip: Play original voices unlocked by awakening the eye
+				}
+
+				NarratorSubtitles: {
+					Label: Narrator subtitles
+					Tooltip: Display Chinese or English subtitles for the current language
+				}
+			}
+		}
+	}
+}

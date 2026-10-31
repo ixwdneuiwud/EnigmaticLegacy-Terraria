@@ -1,0 +1,2200 @@
+{
+  "version": "0.1.17",
+  "assumptions": {
+    "vanilla_inputs": "native acquisition and progression",
+    "possible_starting_gifts": [
+      "cursed_ring",
+      "the_acknowledgment",
+      "unwitnessed_amulet"
+    ],
+    "direct_sources": [
+      "abyssal_heart",
+      "angel_blessing",
+      "astral_dust",
+      "astral_fruit",
+      "blazing_core",
+      "cursed_ring",
+      "darkest_scroll",
+      "earth_heart",
+      "enigmatic_eye",
+      "etherium_ore",
+      "evil_essence",
+      "eye_of_nebula",
+      "forbidden_fruit",
+      "golem_heart",
+      "guardian_heart",
+      "ichor_bottle",
+      "nether_star",
+      "ocean_stone",
+      "soul_dust",
+      "the_acknowledgment",
+      "unholy_grail",
+      "unwitnessed_amulet",
+      "void_pearl",
+      "void_stone"
+    ]
+  },
+  "counts": {
+    "direct_missing": 7,
+    "recipe_blocked": 0,
+    "intentional": 13,
+    "reachable": 164
+  },
+  "unregistered_recipes": {},
+  "items": [
+    {
+      "id": "enigmatic_item",
+      "name": "创造之心",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "enigmatic_item"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "xp_scroll",
+      "name": "永恒智慧卷轴",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet",
+      "name": "神秘护身符",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "magnet_ring",
+      "name": "磁力之戒",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "extradimensional_eye",
+      "name": "超维之眼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "relic_of_testing",
+      "name": "Relic Of Testing",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "relic_of_testing"
+      ],
+      "special_requirements": [],
+      "note": "原作隐藏调试物品，不新增生存来源"
+    },
+    {
+      "id": "recall_potion",
+      "name": "召回药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "forbidden_axe",
+      "name": "行刑者之斧",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "escape_scroll",
+      "name": "死后召回卷轴",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "heaven_scroll",
+      "name": "天堂之礼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "super_magnet_ring",
+      "name": "错位之戒",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "golem_heart",
+      "name": "魔像之心",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "mega_sponge",
+      "name": "无内海绵",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "mega_sponge"
+      ],
+      "special_requirements": [],
+      "note": "用户指定无吸水、无获取的彩蛋"
+    },
+    {
+      "id": "unholy_grail",
+      "name": "不洁圣杯",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "eye_of_nebula",
+      "name": "星云之眼",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "blazing_core",
+      "name": "烈焰之核",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "void_pearl",
+      "name": "虚空珍珠",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ocean_stone",
+      "name": "海洋意志",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "angel_blessing",
+      "name": "天使之祝",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "monster_charm",
+      "name": "怪物猎人勋章",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "mining_charm",
+      "name": "猎宝者护符",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ender_ring",
+      "name": "末影之戒",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "mending_mixture",
+      "name": "修补混合物",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "loot_generator",
+      "name": "战利品一体化盒",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "loot_generator"
+      ],
+      "special_requirements": [],
+      "note": "原作调试物品，不新增生存来源"
+    },
+    {
+      "id": "thicc_scroll",
+      "name": "空卷轴",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "iron_ring",
+      "name": "铁指环",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_ore",
+      "name": "以太矿石",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_ingot",
+      "name": "以太锭",
+      "status": "reachable",
+      "recipe_count": 4,
+      "missing_direct": [
+        [],
+        [],
+        [],
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_nugget",
+      "name": "以太粒",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_scraps",
+      "name": "以太合金碎片",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "etherium_scraps"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_potion",
+      "name": "Ultimate Potion",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "ultimate_potion"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "ultimate_potion_splash",
+      "name": "Ultimate Potion Splash",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "ultimate_potion_splash"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "ultimate_potion_lingering",
+      "name": "Ultimate Potion Lingering",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "ultimate_potion_lingering"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "common_potion",
+      "name": "Common Potion",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "common_potion"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "common_potion_splash",
+      "name": "Common Potion Splash",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "common_potion_splash"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "common_potion_lingering",
+      "name": "Common Potion Lingering",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "common_potion_lingering"
+      ],
+      "special_requirements": [],
+      "note": "原作无药效的基类药瓶；66 个有药效变体使用独立配方"
+    },
+    {
+      "id": "etherium_helmet",
+      "name": "以太头盔",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_chestplate",
+      "name": "以太胸甲",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_leggings",
+      "name": "以太护腿",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_boots",
+      "name": "以太靴子",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_pickaxe",
+      "name": "以太镐",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_axe",
+      "name": "以太斧",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_shovel",
+      "name": "以太锹",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_sword",
+      "name": "以太阔剑",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_scythe",
+      "name": "以太镰刀",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "astral_dust",
+      "name": "星尘",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "lore_inscriber",
+      "name": "设计师的墨水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "lore_fragment",
+      "name": "物品描述片段",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ender_rod",
+      "name": "末影棍",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "astral_breaker",
+      "name": "星光破坏锤",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "void_stone",
+      "name": "湮灭心石",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enchantment_transposer",
+      "name": "求知之书",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "curse_transposer",
+      "name": "噬咒之书",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "fabulous_scroll",
+      "name": "造物主的恩赐",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "storage_crystal",
+      "name": "超维容器",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "storage_crystal"
+      ],
+      "special_requirements": [],
+      "note": "实际死亡容器由世界系统生成/保存；此物品只保留显示资源"
+    },
+    {
+      "id": "soul_crystal",
+      "name": "灵魂水晶",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "soul_crystal"
+      ],
+      "special_requirements": [],
+      "note": "实际灵魂由死亡系统生成/保存；此物品只保留显示资源"
+    },
+    {
+      "id": "the_acknowledgment",
+      "name": "启示之证",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "tattered_tome",
+      "name": "破烂书籍",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "tattered_tome"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "withered_tome",
+      "name": "凋零书籍",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "withered_tome"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "corrupted_tome",
+      "name": "腐烂书籍",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "corrupted_tome"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "cursed_ring",
+      "name": "七咒之戒",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "twisted_mirror",
+      "name": "扭曲魔镜",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "cursed_scroll",
+      "name": "千咒卷轴",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "berserk_charm",
+      "name": "血战沙场之证",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "earth_heart",
+      "name": "大地之心",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "twisted_heart",
+      "name": "扭曲之心",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "guardian_heart",
+      "name": "守卫者之心",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "the_twist",
+      "name": "倒转之启",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "evil_essence",
+      "name": "邪恶精髓",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "evil_ingot",
+      "name": "极恶锭",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "animal_guidebook",
+      "name": "兽友指南",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "hunter_guidebook",
+      "name": "野猎指南",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "forbidden_fruit",
+      "name": "禁忌之果",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "redemption_potion",
+      "name": "救赎药水",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "redemption_potion"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "golden_ring",
+      "name": "精美戒指",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "cursed_stone",
+      "name": "邪恶之石",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enchanter_pearl",
+      "name": "附魔师的珍珠",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "avarice_scroll",
+      "name": "无尽贪婪契约",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "infinimeal",
+      "name": "狂野生长精华",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "darkest_scroll",
+      "name": "至暗卷轴",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "unwitnessed_amulet",
+      "name": "无主护身符",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "twisted_potion",
+      "name": "扭曲恩惠药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "infernal_shield",
+      "name": "烈焰之傲壁垒",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "cosmic_heart",
+      "name": "寰宇之心",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "abyssal_heart",
+      "name": "深渊之心",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "the_infinitum",
+      "name": "无止之言",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "astral_fruit",
+      "name": "天体果实",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ender_slayer",
+      "name": "末影之屠",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "the_cube",
+      "name": "非欧立方",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "desolation_ring",
+      "name": "荒芜之负",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "astral_potato",
+      "name": "传送薯",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "soul_compass",
+      "name": "被诅咒者的寻路指针",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ascension_amulet",
+      "name": "飞升护符",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "eldritch_amulet",
+      "name": "轻蔑之约",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_elytra",
+      "name": "壮丽鞘翅",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_eye",
+      "name": "休眠之眼",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ichor_bottle",
+      "name": "灵液瓶",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "quote_player",
+      "name": "呓语播放器",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "quote_player"
+      ],
+      "special_requirements": [],
+      "note": "原作调试播放器；语音由觉醒之眼事件触发，不需要此物"
+    },
+    {
+      "id": "insignia",
+      "name": "迷人徽章",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "cosmic_scroll",
+      "name": "建筑师的青睐",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "deception_amulet",
+      "name": "诡计护符 [未完成]",
+      "status": "intentional",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "deception_amulet"
+      ],
+      "special_requirements": [],
+      "note": "原作未完成的 WIP 物品"
+    },
+    {
+      "id": "the_judgement",
+      "name": "审判",
+      "status": "no_source",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [
+        "the_judgement"
+      ],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "soul_dust",
+      "name": "灵魂尘",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "eldritch_pan",
+      "name": "饕餮之锅",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_aqua",
+      "name": "神秘护身符·青",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_violet",
+      "name": "神秘护身符·紫",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_magenta",
+      "name": "神秘护身符·品红",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_green",
+      "name": "神秘护身符·绿",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_black",
+      "name": "神秘护身符·黑",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "enigmatic_amulet_blue",
+      "name": "神秘护身符·蓝",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_night_vision",
+      "name": "终极夜视药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_night_vision_splash",
+      "name": "喷溅型终极夜视药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_night_vision_lingering",
+      "name": "滞留型终极夜视药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_invisibility",
+      "name": "终极隐身药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_invisibility_splash",
+      "name": "喷溅型终极隐身药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_invisibility_lingering",
+      "name": "滞留型终极隐身药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_leaping",
+      "name": "终极跳跃提升药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_leaping_splash",
+      "name": "喷溅型终极跳跃提升药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_leaping_lingering",
+      "name": "滞留型终极跳跃提升药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_fire_resistance",
+      "name": "终极防火药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_fire_resistance_splash",
+      "name": "喷溅型终极防火药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_fire_resistance_lingering",
+      "name": "滞留型终极防火药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_swiftness",
+      "name": "终极迅捷药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_swiftness_splash",
+      "name": "喷溅型终极迅捷药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_swiftness_lingering",
+      "name": "滞留型终极迅捷药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slowness",
+      "name": "终极缓慢药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slowness_splash",
+      "name": "喷溅型终极缓慢药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slowness_lingering",
+      "name": "滞留型终极缓慢药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_turtle_master",
+      "name": "终极神龟药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_turtle_master_splash",
+      "name": "喷溅型终极神龟药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_turtle_master_lingering",
+      "name": "滞留型终极神龟药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_water_breathing",
+      "name": "终极水肺药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_water_breathing_splash",
+      "name": "喷溅型终极水肺药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_water_breathing_lingering",
+      "name": "滞留型终极水肺药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_healing",
+      "name": "终极治疗药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_healing_splash",
+      "name": "喷溅型终极治疗药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_healing_lingering",
+      "name": "滞留型终极治疗药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_harming",
+      "name": "终极伤害药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_harming_splash",
+      "name": "喷溅型终极伤害药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_harming_lingering",
+      "name": "滞留型终极伤害药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_poison",
+      "name": "终极剧毒药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_poison_splash",
+      "name": "喷溅型终极剧毒药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_poison_lingering",
+      "name": "滞留型终极剧毒药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_regeneration",
+      "name": "终极再生药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_regeneration_splash",
+      "name": "喷溅型终极再生药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_regeneration_lingering",
+      "name": "滞留型终极再生药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_strength",
+      "name": "终极力量药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_strength_splash",
+      "name": "喷溅型终极力量药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_strength_lingering",
+      "name": "滞留型终极力量药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_weakness",
+      "name": "终极虚弱药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_weakness_splash",
+      "name": "喷溅型终极虚弱药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_weakness_lingering",
+      "name": "滞留型终极虚弱药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slow_falling",
+      "name": "终极缓降药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slow_falling_splash",
+      "name": "喷溅型终极缓降药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_slow_falling_lingering",
+      "name": "滞留型终极缓降药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_haste",
+      "name": "终极急迫药水",
+      "status": "reachable",
+      "recipe_count": 2,
+      "missing_direct": [
+        [],
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_haste_splash",
+      "name": "喷溅型终极急迫药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_haste_lingering",
+      "name": "滞留型终极急迫药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_molten_heart",
+      "name": "熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_molten_heart_splash",
+      "name": "喷溅型熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "ultimate_molten_heart_lingering",
+      "name": "滞留型熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_haste",
+      "name": "急迫药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_haste_splash",
+      "name": "喷溅型急迫药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_haste_lingering",
+      "name": "滞留型急迫药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_haste",
+      "name": "急迫药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_haste_splash",
+      "name": "喷溅型急迫药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_haste_lingering",
+      "name": "滞留型急迫药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_strong_haste",
+      "name": "急迫药水（强化）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_strong_haste_splash",
+      "name": "喷溅型急迫药水（强化）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_strong_haste_lingering",
+      "name": "滞留型急迫药水（强化）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_molten_heart",
+      "name": "熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_molten_heart_splash",
+      "name": "喷溅型熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_molten_heart_lingering",
+      "name": "滞留型熔火之心药水",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_molten_heart",
+      "name": "熔火之心药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_molten_heart_splash",
+      "name": "喷溅型熔火之心药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "common_long_molten_heart_lingering",
+      "name": "滞留型熔火之心药水（延长）",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "nether_star",
+      "name": "下界之星",
+      "status": "reachable",
+      "recipe_count": 0,
+      "missing_direct": [],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "big_lamp",
+      "name": "大灯笼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "massive_lamp",
+      "name": "封装的大灯笼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "big_shroomlamp",
+      "name": "菌光体灯笼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "massive_shroomlamp",
+      "name": "封装的菌光体灯笼",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "end_anchor",
+      "name": "维度锚",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "astral_block",
+      "name": "袋装星辰",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    },
+    {
+      "id": "etherium_block",
+      "name": "以太块",
+      "status": "reachable",
+      "recipe_count": 1,
+      "missing_direct": [
+        []
+      ],
+      "root_gaps": [],
+      "special_requirements": [],
+      "note": ""
+    }
+  ]
+}

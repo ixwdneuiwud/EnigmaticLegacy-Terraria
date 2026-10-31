@@ -1,0 +1,20 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			astral_block: {
+				DisplayName: 袋装星辰
+				Tooltip: 可放置；由九份星尘压缩而成
+			}
+
+			etherium_block: {
+				DisplayName: 以太块
+				Tooltip: 可放置；由九块以太锭压缩而成
+			}
+		}
+
+		Tiles: {
+			AstralBlockTile.MapEntry: 袋装星辰
+			EtheriumBlockTile.MapEntry: 以太块
+		}
+	}
+}

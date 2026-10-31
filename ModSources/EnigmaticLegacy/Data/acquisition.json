@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "starting_gifts": [
+    "unwitnessed_amulet",
+    "the_acknowledgment",
+    "cursed_ring"
+  ],
+  "chest_rules": [
+    {
+      "item": "golem_heart",
+      "pool": "dungeon_gold",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "unholy_grail",
+      "pool": "dungeon",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "blazing_core",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "angel_blessing",
+      "pool": "sky",
+      "numerator": 1,
+      "denominator": 3,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "earth_heart",
+      "pool": "overworld",
+      "numerator": 2,
+      "denominator": 25,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "void_stone",
+      "pool": "gold",
+      "numerator": 1,
+      "denominator": 20,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "forbidden_fruit",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "darkest_scroll",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    },
+    {
+      "item": "ichor_bottle",
+      "pool": "hell_shadow",
+      "numerator": 1,
+      "denominator": 5,
+      "minimum": 1,
+      "maximum": 1
+    }
+  ],
+  "npc_rules": [
+    {
+      "item": "eye_of_nebula",
+      "group": "CultistBoss",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": ""
+    },
+    {
+      "item": "void_pearl",
+      "group": "MoonLordCore",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": ""
+    },
+    {
+      "item": "ocean_stone",
+      "group": "DukeFishron",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": ""
+    },
+    {
+      "item": "guardian_heart",
+      "group": "DukeFishron",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": ""
+    },
+    {
+      "item": "etherium_ore",
+      "group": "pillars",
+      "denominator": 1,
+      "minimum": 20,
+      "maximum": 30,
+      "condition": ""
+    },
+    {
+      "item": "astral_dust",
+      "group": "pillars",
+      "denominator": 1,
+      "minimum": 10,
+      "maximum": 20,
+      "condition": ""
+    },
+    {
+      "item": "etherium_ore",
+      "group": "pillar_enemies",
+      "denominator": 2,
+      "minimum": 1,
+      "maximum": 3,
+      "condition": ""
+    },
+    {
+      "item": "astral_dust",
+      "group": "pillar_enemies",
+      "denominator": 2,
+      "minimum": 1,
+      "maximum": 2,
+      "condition": ""
+    },
+    {
+      "item": "earth_heart",
+      "group": "hostile",
+      "denominator": 2000,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": "worn_curses_overworld_underground"
+    },
+    {
+      "item": "evil_essence",
+      "group": "WallofFlesh",
+      "denominator": 1,
+      "minimum": 10,
+      "maximum": 10,
+      "condition": "worn_curses"
+    },
+    {
+      "item": "nether_star",
+      "group": "WallofFlesh",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": "worn_curses"
+    },
+    {
+      "item": "abyssal_heart",
+      "group": "MoonLordCore",
+      "denominator": 1,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": "worn_curses"
+    },
+    {
+      "item": "soul_dust",
+      "group": "undead",
+      "denominator": 20,
+      "minimum": 1,
+      "maximum": 1,
+      "condition": ""
+    }
+  ],
+  "one_time": [
+    {
+      "item": "enigmatic_eye",
+      "event": "first_chest",
+      "scope": "character"
+    },
+    {
+      "item": "astral_fruit",
+      "event": "first_moon_lord_kill",
+      "scope": "character"
+    }
+  ],
+  "conversions": [
+    {
+      "input": "unwitnessed_amulet",
+      "outputs": [
+        "enigmatic_amulet",
+        "enigmatic_amulet_aqua",
+        "enigmatic_amulet_violet",
+        "enigmatic_amulet_magenta",
+        "enigmatic_amulet_green",
+        "enigmatic_amulet_black",
+        "enigmatic_amulet_blue"
+      ],
+      "event": "bind_to_player",
+      "owner_bound": true
+    }
+  ]
+}

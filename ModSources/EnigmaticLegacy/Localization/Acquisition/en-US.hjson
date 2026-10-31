@@ -1,0 +1,49 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			nether_star: {
+				DisplayName: Nether Star
+				Tooltip: ""
+			}
+
+			big_lamp: {
+			}
+
+			big_shroomlamp: {
+			}
+
+			end_anchor: {
+			}
+
+			massive_lamp: {
+			}
+
+			massive_shroomlamp: {
+			}
+		}
+
+		Conditions.BlessedHeart: A blessed Cosmic Heart (acquisition pending)
+
+		Buffs: {
+			WitheringIV: {
+				DisplayName: Withering IV
+				Description: Continuously takes wither damage
+			}
+
+			WeaknessIV: {
+				DisplayName: Weakness IV
+				Description: Reduces melee damage by 16 source points
+			}
+		}
+
+		Projectiles: {
+			LegacyEtheriumBolt.DisplayName: Legacy Etherium Bolt
+			LegacyEtheriumScythe.DisplayName: Legacy Etherium Scythe
+			LegacyInfinitumBolt.DisplayName: Legacy Infinitum Bolt
+			LegacyPan.DisplayName: Legacy Pan
+			LegacyPotionProjectile.DisplayName: Legacy Potion Projectile
+			LegacySkull.DisplayName: Legacy Skull
+			LegacyTwistBolt.DisplayName: Legacy Twist Bolt
+		}
+	}
+}

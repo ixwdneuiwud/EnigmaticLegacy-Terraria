@@ -1,0 +1,30 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			big_lamp: {
+				DisplayName: Lamp
+				Tooltip: ""
+			}
+
+			massive_lamp: {
+				DisplayName: Encased Lamp
+				Tooltip: ""
+			}
+
+			big_shroomlamp: {
+				DisplayName: Shroomlamp
+				Tooltip: ""
+			}
+
+			massive_shroomlamp: {
+				DisplayName: Encased Shroomlamp
+				Tooltip: ""
+			}
+
+			end_anchor: {
+				DisplayName: Dimensional Anchor
+				Tooltip: ""
+			}
+		}
+	}
+}

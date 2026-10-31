@@ -1,0 +1,30 @@
+Mods: {
+	EnigmaticLegacy: {
+		Items: {
+			big_lamp: {
+				DisplayName: 大灯笼
+				Tooltip: ""
+			}
+
+			massive_lamp: {
+				DisplayName: 封装的大灯笼
+				Tooltip: ""
+			}
+
+			big_shroomlamp: {
+				DisplayName: 菌光体灯笼
+				Tooltip: ""
+			}
+
+			massive_shroomlamp: {
+				DisplayName: 封装的菌光体灯笼
+				Tooltip: ""
+			}
+
+			end_anchor: {
+				DisplayName: 维度锚
+				Tooltip: ""
+			}
+		}
+	}
+}
