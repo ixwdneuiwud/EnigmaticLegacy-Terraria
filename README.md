@@ -31,4 +31,14 @@ Enigmatic Legacy 2.30.0 → tModLoader 1.4.4 的 C# 移植，当前源码版本 
 - `tools/restore_external_assets.py`、`external-assets.json`：外部 Minecraft 构建输入的恢复及像素校验。
 - `docs/validation.md`：这份公开快照的验证记录；不把早期测试当作当前客户端验收。
 
-神秘遗物附加、月之石、Goety 等独立模组不在本仓库。此仓库公开源码，尚未代表已经发布到 Steam 创意工坊，也不包含其他模组、游戏二进制或个人存档。
+神秘遗物附加、月之石、Goety 等独立模组不在本仓库。此仓库公开对应源码，不包含其他模组、游戏二进制或个人存档。创意工坊实际发布状态见下表。
+
+<!-- workshop-publication:start -->
+## 创意工坊发布记录
+
+| 模组 | 版本 | 状态 | 订阅地址 | 必需前置 |
+| --- | --- | --- | --- | --- |
+| 神秘遗物 / `EnigmaticLegacy` | 0.1.19 | 已公开并核验 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830629276) | 无 |
+
+每个模组单独发布，星月系列的必需前置同时在 `.tmod` 和创意工坊条目关联。原作、许可依据、AI 移植声明、视频与 QQ 反馈群均在条目简介中。
+<!-- workshop-publication:end -->
